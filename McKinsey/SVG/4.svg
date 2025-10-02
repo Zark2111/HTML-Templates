@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187.68 71.04">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #051c2c;
+        stroke-linecap: square;
+        stroke-miterlimit: 8;
+        stroke-width: .25px;
+      }
+
+      .cls-3 {
+        font-family: ArialMT, Arial;
+        font-size: 9.96px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <circle class="cls-2" cx="35.4" cy="34.32" r="34.2" transform="translate(-9.86 53.89) rotate(-67.5)"/>
+    <circle class="cls-2" cx="98.34" cy="34.26" r="26.46" transform="translate(48.77 125.85) rotate(-80.78)"/>
+    <circle class="cls-2" cx="145.56" cy="34.32" r="18.72" transform="translate(-2.06 58.32) rotate(-22.5)"/>
+    <circle class="cls-2" cx="176.28" cy="34.32" r="9.24"/>
+    <rect class="cls-1" y="34.32" width="187.68" height="36.72"/>
+    <text class="cls-3" transform="translate(27.12 43.99)"><tspan class="cls-4" x="0" y="0">25</tspan><tspan x="11.06" y="0">0</tspan></text>
+    <text class="cls-3" transform="translate(90.17 43.99)"><tspan class="cls-4" x="0" y="0">15</tspan><tspan x="11.06" y="0">0</tspan></text>
+    <text class="cls-3" transform="translate(140.21 43.99)"><tspan class="cls-4" x="0" y="0">7</tspan><tspan x="5.53" y="0">5</tspan></text>
+    <text class="cls-3" transform="translate(170.9 43.99)"><tspan class="cls-4" x="0" y="0">2</tspan><tspan x="5.53" y="0">0</tspan></text>
+  </g>
+</svg>

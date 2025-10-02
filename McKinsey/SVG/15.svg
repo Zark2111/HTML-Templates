@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.1 7.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .16px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <circle class="cls-1" cx="1.4" cy="1.05" r=".7"/>
+    <path class="cls-1" d="m1.82,2.11H.68c-.34,0-.6.26-.6.6v2.29h.6"/>
+    <circle class="cls-1" cx="3.54" cy=".84" r=".76"/>
+    <line class="cls-1" x1="3.54" y1="5.71" x2="3.54" y2="7.52"/>
+    <polyline class="cls-1" points="2.74 3.34 2.1 5.71 5 5.71 4.35 3.34"/>
+    <path class="cls-1" d="m4.69,4.6h.3v-2.05c0-.34-.26-.6-.6-.6h-1.69c-.34,0-.6.26-.6.6v2.05h.3"/>
+    <polyline class="cls-1" points="4.34 5.71 4.34 7.52 2.76 7.52 2.76 5.71"/>
+    <circle class="cls-1" cx="5.7" cy="1.05" r=".7"/>
+    <line class="cls-1" x1="5.7" y1="7.22" x2="5.7" y2="5"/>
+    <path class="cls-1" d="m6.42,5h.6v-2.29c0-.34-.26-.6-.6-.6h-1.14"/>
+    <line class="cls-1" x1="1.4" y1="4.99" x2="1.4" y2="7.22"/>
+    <polyline class="cls-1" points=".68 2.8 .68 7.22 2.13 7.22 2.13 6.1"/>
+    <polyline class="cls-1" points="4.96 6.1 4.96 7.22 6.42 7.22 6.42 2.8"/>
+  </g>
+</svg>

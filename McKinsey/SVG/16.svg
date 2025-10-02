@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 664.89 13.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00a9f4;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <line class="cls-2" y1="6.96" x2="664.89" y2="6.96"/>
+    <ellipse class="cls-1" cx="197.22" cy="6.96" rx="7.14" ry="6.96"/>
+    <ellipse class="cls-1" cx="461.4" cy="6.96" rx="7.08" ry="6.96"/>
+    <ellipse class="cls-1" cx="327.72" cy="6.96" rx="7.08" ry="6.96"/>
+    <ellipse class="cls-1" cx="61.92" cy="6.96" rx="7.08" ry="6.96"/>
+    <ellipse class="cls-1" cx="601.38" cy="6.96" rx="6.42" ry="6.96"/>
+  </g>
+</svg>

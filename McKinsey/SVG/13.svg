@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7.6 7.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: .16px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <rect class="cls-1" x="3.32" y="6.56" width=".96" height=".96"/>
+    <rect class="cls-1" x="3.32" y=".08" width=".96" height=".96"/>
+    <polygon class="cls-1" points="3.8 1.94 2.12 2.9 2.12 4.7 3.8 5.66 5.48 4.7 5.48 2.9 3.8 1.94"/>
+    <polyline class="cls-1" points="3.8 5.66 3.8 3.86 5.48 2.9 3.8 3.86 2.12 2.9"/>
+    <rect class="cls-1" x="6.56" y="1.82" width=".96" height=".96"/>
+    <polyline class="cls-1" points="6.56 2.3 5.84 2.3 5.16 2.72"/>
+    <polyline class="cls-1" points="6.56 5.36 5.82 5.36 5.08 4.93"/>
+    <rect class="cls-1" x="6.56" y="4.88" width=".96" height=".96"/>
+    <rect class="cls-1" x=".08" y="1.82" width=".96" height=".96"/>
+    <polyline class="cls-1" points="1.04 2.3 1.76 2.3 2.47 2.7"/>
+    <polyline class="cls-1" points="1.04 5.36 1.78 5.36 2.5 4.93"/>
+    <rect class="cls-1" x=".08" y="4.88" width=".96" height=".96"/>
+    <line class="cls-1" x1="3.8" y1="6.56" x2="3.8" y2="5.6"/>
+    <line class="cls-1" x1="3.8" y1="1.94" x2="3.8" y2="1.04"/>
+  </g>
+</svg>

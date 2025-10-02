@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 159.2 12.85">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #168cda;
+      }
+
+      .cls-2 {
+        fill: #1b6fc1;
+      }
+
+      .cls-3 {
+        fill: #00a9f4;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: square;
+        stroke-miterlimit: 8;
+        stroke-width: .75px;
+      }
+
+      .cls-5 {
+        fill: #1954a9;
+      }
+
+      .cls-6 {
+        font-family: ArialMT, Arial;
+        font-size: 9.96px;
+      }
+
+      .cls-7 {
+        fill: #133991;
+      }
+
+      .cls-8 {
+        fill: #061f79;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <ellipse class="cls-3" cx="5.89" cy="5.83" rx="5.52" ry="5.46"/>
+    <ellipse class="cls-4" cx="5.89" cy="5.83" rx="5.52" ry="5.46"/>
+    <text class="cls-6" transform="translate(14.04 9.62)"><tspan x="0" y="0">0</tspan></text>
+    <ellipse class="cls-1" cx="33.85" cy="5.83" rx="5.52" ry="5.46"/>
+    <ellipse class="cls-4" cx="33.85" cy="5.83" rx="5.52" ry="5.46"/>
+    <text class="cls-6" transform="translate(41.94 9.62)"><tspan x="0" y="0">1</tspan></text>
+    <ellipse class="cls-2" cx="61.81" cy="5.83" rx="5.52" ry="5.46"/>
+    <ellipse class="cls-4" cx="61.81" cy="5.83" rx="5.52" ry="5.46"/>
+    <text class="cls-6" transform="translate(69.88 9.62)"><tspan x="0" y="0">2</tspan></text>
+    <circle class="cls-5" cx="89.71" cy="5.83" r="5.46" transform="translate(49.99 86.49) rotate(-67.5)"/>
+    <circle class="cls-4" cx="89.71" cy="5.83" r="5.46" transform="translate(49.99 86.49) rotate(-67.5)"/>
+    <text class="cls-6" transform="translate(97.81 9.62)"><tspan x="0" y="0">3</tspan></text>
+    <ellipse class="cls-7" cx="117.61" cy="5.83" rx="5.52" ry="5.46"/>
+    <ellipse class="cls-4" cx="117.61" cy="5.83" rx="5.52" ry="5.46"/>
+    <text class="cls-6" transform="translate(125.72 9.62)"><tspan x="0" y="0">4</tspan></text>
+    <ellipse class="cls-8" cx="145.57" cy="5.83" rx="5.52" ry="5.46"/>
+    <ellipse class="cls-4" cx="145.57" cy="5.83" rx="5.52" ry="5.46"/>
+    <text class="cls-6" transform="translate(153.67 9.62)"><tspan x="0" y="0">5</tspan></text>
+  </g>
+</svg>

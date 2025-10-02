@@ -1,0 +1,1472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 68.76 57.96">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-73);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-72);
+      }
+
+      .cls-3 {
+        fill: #4c72ff;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-62);
+      }
+
+      .cls-5 {
+        fill: #75d1f9;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-45);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-63);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-59);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-78);
+      }
+
+      .cls-14 {
+        fill: #8cd8fa;
+      }
+
+      .cls-15 {
+        fill: #3862ff;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-93);
+      }
+
+      .cls-17 {
+        fill: #2d5aff;
+      }
+
+      .cls-18 {
+        fill: #3dbef7;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-89);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-21 {
+        clip-path: url(#clippath-64);
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-47);
+      }
+
+      .cls-23 {
+        clip-path: url(#clippath-94);
+      }
+
+      .cls-24 {
+        clip-path: url(#clippath-77);
+      }
+
+      .cls-25 {
+        fill: #2f4350;
+      }
+
+      .cls-26 {
+        fill: #00a9f4;
+      }
+
+      .cls-27 {
+        clip-path: url(#clippath-41);
+      }
+
+      .cls-28 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-29 {
+        clip-path: url(#clippath-87);
+      }
+
+      .cls-30 {
+        clip-path: url(#clippath-83);
+      }
+
+      .cls-31 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-32 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath-88);
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-37);
+      }
+
+      .cls-35 {
+        clip-path: url(#clippath-46);
+      }
+
+      .cls-36 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-37 {
+        clip-path: url(#clippath-98);
+      }
+
+      .cls-38 {
+        fill: #4a70ff;
+      }
+
+      .cls-39 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-40 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-41 {
+        clip-path: url(#clippath-76);
+      }
+
+      .cls-42 {
+        clip-path: url(#clippath-40);
+      }
+
+      .cls-43 {
+        fill: #283c4a;
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-45 {
+        clip-path: url(#clippath-81);
+      }
+
+      .cls-46 {
+        clip-path: url(#clippath-75);
+      }
+
+      .cls-47 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-48 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-49 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-57);
+      }
+
+      .cls-51 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-52 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-38);
+      }
+
+      .cls-54 {
+        clip-path: url(#clippath-36);
+      }
+
+      .cls-55 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-56 {
+        clip-path: url(#clippath-60);
+      }
+
+      .cls-57 {
+        fill: #0c2332;
+      }
+
+      .cls-58 {
+        fill: #1e3341;
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-44);
+      }
+
+      .cls-60 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-61 {
+        fill: #63cbf8;
+      }
+
+      .cls-62 {
+        clip-path: url(#clippath-95);
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-80);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-65 {
+        clip-path: url(#clippath-99);
+      }
+
+      .cls-66 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-67 {
+        clip-path: url(#clippath-79);
+      }
+
+      .cls-68 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-69 {
+        clip-path: url(#clippath-96);
+      }
+
+      .cls-70 {
+        fill: #3d66ff;
+      }
+
+      .cls-71 {
+        fill: #112737;
+      }
+
+      .cls-72 {
+        fill: #192e3d;
+      }
+
+      .cls-73 {
+        fill: #78d1f9;
+      }
+
+      .cls-74 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-82);
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-52);
+      }
+
+      .cls-77 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-78 {
+        clip-path: url(#clippath-50);
+      }
+
+      .cls-79 {
+        clip-rule: evenodd;
+      }
+
+      .cls-79, .cls-80 {
+        fill: none;
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath-48);
+      }
+
+      .cls-82 {
+        clip-path: url(#clippath-61);
+      }
+
+      .cls-83 {
+        clip-path: url(#clippath-39);
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-85 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-86 {
+        fill: #050505;
+      }
+
+      .cls-87 {
+        clip-path: url(#clippath-86);
+      }
+
+      .cls-88 {
+        clip-path: url(#clippath-54);
+      }
+
+      .cls-89 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-90 {
+        clip-path: url(#clippath-91);
+      }
+
+      .cls-91 {
+        clip-path: url(#clippath-43);
+      }
+
+      .cls-92 {
+        clip-path: url(#clippath-70);
+      }
+
+      .cls-93 {
+        fill: #14b0f5;
+      }
+
+      .cls-94 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-95 {
+        fill: #2bb8f6;
+      }
+
+      .cls-96 {
+        fill: #8ad7fa;
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-55);
+      }
+
+      .cls-98 {
+        clip-path: url(#clippath-69);
+      }
+
+      .cls-99 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-100 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-101 {
+        clip-path: url(#clippath-90);
+      }
+
+      .cls-102 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-103 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-104 {
+        clip-path: url(#clippath-97);
+      }
+
+      .cls-105 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-106 {
+        clip-path: url(#clippath-58);
+      }
+
+      .cls-107 {
+        clip-path: url(#clippath-84);
+      }
+
+      .cls-108 {
+        clip-path: url(#clippath-42);
+      }
+
+      .cls-109 {
+        clip-path: url(#clippath-65);
+      }
+
+      .cls-110 {
+        fill: #30b9f6;
+      }
+
+      .cls-111 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-112 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-113 {
+        clip-path: url(#clippath-100);
+      }
+
+      .cls-114 {
+        clip-path: url(#clippath-92);
+      }
+
+      .cls-115 {
+        clip-path: url(#clippath-74);
+      }
+
+      .cls-116 {
+        clip-path: url(#clippath-56);
+      }
+
+      .cls-117 {
+        clip-path: url(#clippath-53);
+      }
+
+      .cls-118 {
+        clip-path: url(#clippath-49);
+      }
+
+      .cls-119 {
+        clip-path: url(#clippath-67);
+      }
+
+      .cls-120 {
+        fill: #2eb8f6;
+      }
+
+      .cls-121 {
+        clip-path: url(#clippath-51);
+      }
+
+      .cls-122 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-123 {
+        clip-path: url(#clippath-71);
+      }
+
+      .cls-124 {
+        clip-path: url(#clippath-85);
+      }
+
+      .cls-125 {
+        clip-path: url(#clippath-68);
+      }
+
+      .cls-126 {
+        fill: #2251ff;
+      }
+
+      .cls-127 {
+        clip-path: url(#clippath-35);
+      }
+
+      .cls-128 {
+        clip-path: url(#clippath-66);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-80" y="0" width="68.76" height="57.96"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-56">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-57">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-58">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-59">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-60">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-61">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-62">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-63">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-64">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-65">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-66">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-67">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-68">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-69">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-70">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-71">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-72">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-73">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-74">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-75">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-76">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-77">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-78">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-79">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-80">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-81">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-82">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-83">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-84">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-85">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-86">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-87">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-88">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-89">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-90">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-91">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-92">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-93">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-94">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-95">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-96">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-97">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-98">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-99">
+      <polyline class="cls-79" points="0 0 68.76 0 68.76 57.96 0 57.96"/>
+    </clipPath>
+    <clipPath id="clippath-100">
+      <rect class="cls-80" y="0" width="68.76" height="57.96"/>
+    </clipPath>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <path class="cls-38" d="m34.38,43.7c-3.87,0-7.26,2.02-9.19,5.06l9.19,9.19,9.19-9.19c-1.93-3.04-5.32-5.06-9.19-5.06Z"/>
+    <path class="cls-120" d="m34.38,31.85c-6.26,0-11.96,2.55-16.06,6.65-.56.56-1.09,1.15-1.6,1.77l4.88,4.87c.47-.64.99-1.25,1.56-1.81,2.88-2.88,6.83-4.65,11.23-4.65,4.39,0,8.34,1.77,11.23,4.65.56.56,1.08,1.17,1.56,1.81l4.87-4.87c-.5-.62-1.03-1.21-1.6-1.77-4.1-4.1-9.8-6.66-16.06-6.65Z"/>
+    <path class="cls-95" d="m34.38,20.52c-9.39,0-17.92,3.82-24.08,9.97-.56.56-1.1,1.14-1.63,1.74l4.85,4.85c.51-.61,1.05-1.2,1.61-1.76,4.93-4.93,11.72-7.97,19.24-7.97,7.52,0,14.3,3.04,19.24,7.97.56.56,1.1,1.15,1.61,1.76l4.85-4.85c-.52-.6-1.06-1.18-1.63-1.74-6.15-6.16-14.68-9.97-24.08-9.97h0Z"/>
+    <g class="cls-77">
+      <path class="cls-26" d="m4.85,28.4c.53-.59,1.07-1.17,1.63-1.74,7.15-7.15,17-11.56,27.9-11.56,10.91,0,20.75,4.41,27.9,11.56.56.56,1.1,1.14,1.63,1.74l4.84-4.85c-.53-.59-1.08-1.17-1.64-1.73-8.37-8.37-19.96-13.56-32.74-13.56-12.77,0-24.37,5.19-32.74,13.56-.56.56-1.11,1.14-1.64,1.73l4.85,4.85h0Z"/>
+    </g>
+    <path class="cls-120" d="m37.5,42.73s-.05-.08-.11-.08h-2.64s-.09.05-.09.09v10.34s.04.07.09.07h2.66s.09-.03.09-.07v-10.35h0Z"/>
+    <path class="cls-11" d="m35.49,47.27s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m35.49,45.54s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m35.49,44.99s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m35.49,44.44s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m35.49,43.89s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.02,47.27s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m36.02,45.54s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.02,44.99s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.02,44.44s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.02,43.89s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.02,43.35s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.55,47.27s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m36.55,45.54s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.55,44.99s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.55,44.44s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.55,43.89s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m36.55,43.35s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m37.08,47.27s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m35.49,48.87s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m36.02,48.87s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m36.55,48.87s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m37.08,48.87s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-1.1s.04-.07.08-.07h.23s.08.03.08.07v1.1Z"/>
+    <path class="cls-11" d="m37.08,45.54s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m37.08,44.99s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m37.08,44.44s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m37.08,43.89s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m35.49,43.35s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-11" d="m37.08,43.35s-.04.07-.08.07h-.23s-.08-.03-.08-.07v-.21s.04-.07.08-.07h.23s.08.03.08.07v.21Z"/>
+    <path class="cls-120" d="m32.37,42.48s-.04-.01-.05,0l-1.75,1.6s-.02.04-.02.06v8.99s.01.03.03.03h3.59s.03-.01.03-.03v-8.99s-.01-.04-.02-.05l-1.81-1.6Z"/>
+    <path class="cls-11" d="m31.18,46.4h.41s.03.02.03.03v.37s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.18,45.73h.42s.03.01.03.03v.37s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m31.18,45.06h.41s.03.01.03.03v.37s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m31.18,44.39h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m31.82,46.4h.41s.03.02.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.82,45.73h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.82,45.06h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.82,44.39h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m31.82,43.73h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,46.4h.42s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,45.73h.42s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,45.06h.42s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,43.73h.41s.03.02.03.03v.37s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m33.1,46.4h.41s.03.02.03.03v.37s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.18,47.13h.41s.03.01.03.03v1.46s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-1.46s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m31.82,47.13h.41s.03.01.03.03v1.46s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-1.46s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,47.13h.41s.03.01.03.03v1.46s-.01.03-.03.03h-.42s-.03-.01-.03-.03v-1.46s.01-.03.03-.03h0Z"/>
+    <path class="cls-11" d="m33.1,47.13h.41s.03.01.03.03v1.46s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-1.46s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m33.1,45.73h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m33.1,45.06h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m33.1,44.39h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03Z"/>
+    <path class="cls-11" d="m32.46,44.39h.41s.03.01.03.03v.37s-.01.03-.03.03h-.41s-.03-.01-.03-.03v-.37s.01-.03.03-.03h0Z"/>
+    <path class="cls-61" d="m42.79,29.7l-1.36-1.97s-.08-.05-.11-.02l-2,1.18s-.08.07-.09.11l-2.33,9.9c1.24.2,2.43.54,3.55,1l2.37-10.06s0-.1-.03-.14h0Z"/>
+    <path class="cls-11" d="m41.6,28.94c.06-.25-.11-.5-.36-.56-.26-.06-.51.09-.57.34-.06.25.1.5.36.56.26.06.51-.09.57-.34Z"/>
+    <path class="cls-11" d="m39.97,30.15s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.44s.05-.07.1-.05l.35.08s.08.05.06.09l-.1.45Z"/>
+    <path class="cls-11" d="m41.07,30.41s-.05.07-.1.05l-.35-.08s-.08-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.07.09l-.1.44Z"/>
+    <path class="cls-11" d="m42.16,30.66s-.05.07-.1.05l-.35-.08s-.07-.05-.06-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.44h0Z"/>
+    <path class="cls-11" d="m39.72,31.22s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.45Z"/>
+    <path class="cls-11" d="m40.82,31.48s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.07.09l-.1.45h0Z"/>
+    <path class="cls-11" d="m41.91,31.74s-.05.07-.1.05l-.35-.08s-.07-.05-.06-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.45h0Z"/>
+    <path class="cls-11" d="m39.47,32.3s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.07.1-.05l.35.08s.07.05.06.09l-.1.45h0Z"/>
+    <path class="cls-11" d="m40.57,32.55s-.05.07-.1.05l-.35-.08s-.07-.05-.06-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.44Z"/>
+    <path class="cls-11" d="m41.66,32.81s-.05.07-.1.05l-.35-.08s-.08-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.44Z"/>
+    <path class="cls-11" d="m39.22,33.37s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.07.09l-.1.44Z"/>
+    <path class="cls-11" d="m40.31,33.63s-.05.07-.1.06l-.35-.08s-.07-.05-.06-.09l.1-.45s.05-.06.1-.05l.35.08s.08.05.06.09l-.1.45Z"/>
+    <path class="cls-11" d="m41.41,33.88s-.05.07-.1.05l-.35-.08s-.07-.05-.06-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.06.09l-.1.45h0Z"/>
+    <path class="cls-11" d="m38.97,34.44s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.07.09l-.1.45h0Z"/>
+    <path class="cls-11" d="m40.06,34.7s-.05.06-.1.05l-.35-.08s-.08-.05-.07-.09l.1-.44s.05-.07.1-.05l.35.08s.07.05.06.09l-.1.45Z"/>
+    <path class="cls-11" d="m41.16,34.95s-.05.07-.1.05l-.35-.08s-.07-.05-.07-.09l.1-.45s.05-.06.1-.05l.35.08s.07.05.07.09l-.1.45h0Z"/>
+    <path class="cls-61" d="m34.38,38.69c.64,0,1.27.04,1.88.11v-12.43s-.03-.07-.07-.07h-3.23s-.07.03-.07.07v12.39c.49-.05.99-.07,1.49-.07h0Z"/>
+    <path class="cls-11" d="m33.47,33.43h2.21s.07.03.07.07v.04s-.03.07-.07.07h-2.21s-.07-.03-.07-.07v-.04s.03-.07.07-.07h0Z"/>
+    <rect class="cls-11" x="33.4" y="32.78" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <rect class="cls-11" x="33.4" y="32.12" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <rect class="cls-11" x="33.4" y="31.46" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <path class="cls-11" d="m33.47,30.81h2.21s.07.03.07.07v.04s-.03.07-.07.07h-2.21s-.07-.03-.07-.07v-.04s.03-.07.07-.07h0Z"/>
+    <rect class="cls-11" x="33.4" y="30.15" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <rect class="cls-11" x="33.4" y="29.5" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <path class="cls-11" d="m33.47,28.84h2.21s.07.03.07.07v.04s-.03.07-.07.07h-2.21s-.07-.03-.07-.07v-.04s.03-.07.07-.07h0Z"/>
+    <rect class="cls-11" x="33.4" y="28.19" width="2.36" height=".19" rx=".07" ry=".07"/>
+    <path class="cls-11" d="m33.47,27.53h2.21s.07.03.07.07v.04s-.03.07-.07.07h-2.21s-.07-.03-.07-.07v-.04s.03-.07.07-.07h0Z"/>
+    <path class="cls-11" d="m33.47,26.88h2.21s.07.03.07.07v.04s-.03.07-.07.07h-2.21s-.07-.03-.07-.07v-.04s.03-.07.07-.07h0Z"/>
+    <path class="cls-61" d="m29.05,39.61c1.07-.38,2.19-.65,3.35-.8l-2.73-12.08s-.05-.06-.09-.06l-3.22.72s-.06.05-.06.09l2.73,12.12h0Z"/>
+    <g class="cls-51">
+      <path class="cls-11" d="m28.4,34.29l.14-.03s.08.02.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.06-.09Z"/>
+    </g>
+    <g class="cls-31">
+      <path class="cls-11" d="m28.11,33.03l.14-.03s.08.02.09.06l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.06-.09Z"/>
+    </g>
+    <g class="cls-89">
+      <path class="cls-11" d="m27.83,31.77l.14-.03s.08.02.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.05-.09Z"/>
+    </g>
+    <g class="cls-52">
+      <path class="cls-11" d="m27.55,30.51l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.01-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-105">
+      <path class="cls-11" d="m27.27,29.26l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.01-.08.05-.09Z"/>
+    </g>
+    <g class="cls-40">
+      <path class="cls-11" d="m26.98,28l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-47">
+      <path class="cls-11" d="m29.12,34.13l.14-.03s.08.02.09.05l.13.58s-.01.08-.05.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.06-.09h0Z"/>
+    </g>
+    <g class="cls-94">
+      <path class="cls-11" d="m28.84,32.87l.14-.03s.08.02.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09Z"/>
+    </g>
+    <g class="cls-74">
+      <path class="cls-11" d="m28.56,31.61l.14-.03s.08.02.09.06l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-111">
+      <path class="cls-11" d="m28.27,30.35l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-9">
+      <path class="cls-11" d="m27.99,29.09l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.06-.09h0Z"/>
+    </g>
+    <g class="cls-60">
+      <path class="cls-11" d="m27.71,27.83l.14-.03s.08.02.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.01-.08.05-.09h0Z"/>
+    </g>
+    <path class="cls-11" d="m30.2,34.57s-.02.08-.06.09l-.14.03s-.08-.01-.09-.06l-.13-.58s.02-.08.06-.09l.14-.03s.08.02.09.06l.13.58Z"/>
+    <g class="cls-32">
+      <path class="cls-11" d="m29.56,32.71l.14-.03s.08.02.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.01-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-102">
+      <path class="cls-11" d="m29.28,31.45l.14-.03s.08.02.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.06-.09h0Z"/>
+    </g>
+    <g class="cls-39">
+      <path class="cls-11" d="m28.99,30.19l.14-.03s.08.02.09.06l.13.58s-.01.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-10">
+      <path class="cls-11" d="m28.71,28.93l.14-.03s.08.02.09.06l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.06-.09h0Z"/>
+    </g>
+    <g class="cls-103">
+      <path class="cls-11" d="m28.43,27.67l.14-.03s.08.02.09.05l.13.58s-.01.08-.06.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <path class="cls-11" d="m30.92,34.41s-.02.08-.06.09l-.14.03s-.08-.01-.09-.06l-.13-.58s.02-.08.06-.09l.14-.03s.08.02.09.06l.13.58Z"/>
+    <path class="cls-11" d="m30.63,33.15s-.02.08-.06.09l-.14.03s-.08-.01-.09-.05l-.13-.58s.02-.08.06-.09l.14-.03s.08.02.09.06l.13.58h0Z"/>
+    <g class="cls-100">
+      <path class="cls-11" d="m30,31.29l.14-.03s.08.02.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.06-.09h0Z"/>
+    </g>
+    <g class="cls-84">
+      <path class="cls-11" d="m29.71,30.03l.14-.03s.08.02.09.06l.13.58s-.01.08-.06.09l-.14.03s-.08-.01-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-8">
+      <path class="cls-11" d="m29.43,28.77l.14-.03s.08.01.09.05l.13.58s-.02.08-.06.09l-.14.03s-.08-.02-.09-.05l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <g class="cls-48">
+      <path class="cls-11" d="m29.15,27.51l.14-.03s.08.01.09.05l.13.58s-.02.08-.05.09l-.14.03s-.08-.02-.09-.06l-.13-.58s.02-.08.05-.09h0Z"/>
+    </g>
+    <path class="cls-61" d="m28.56,39.79l-3.72-7.6s-.06-.08-.09-.11l-1.08-.93s-.08-.03-.12-.02l-1.73.84s-.06.06-.06.1l.07,1.43s.02.1.03.13l3.76,7.68c.92-.61,1.9-1.12,2.94-1.53h0Z"/>
+    <g class="cls-68">
+      <path class="cls-11" d="m22.47,33.66l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1Z"/>
+    </g>
+    <g class="cls-112">
+      <path class="cls-11" d="m23.07,33.36l.22-.11s.08,0,.09.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1Z"/>
+    </g>
+    <g class="cls-64">
+      <path class="cls-11" d="m23.66,33.08l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09Z"/>
+    </g>
+    <g class="cls-36">
+      <path class="cls-11" d="m24.26,32.79l.22-.11s.08,0,.09.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09Z"/>
+    </g>
+    <g class="cls-44">
+      <path class="cls-11" d="m23.16,35.06l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1Z"/>
+    </g>
+    <g class="cls-55">
+      <path class="cls-11" d="m23.98,34.66s.08,0,.09.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09l.22-.11Z"/>
+    </g>
+    <g class="cls-122">
+      <path class="cls-11" d="m24.57,34.37s.08,0,.09.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09l.22-.11Z"/>
+    </g>
+    <g class="cls-99">
+      <path class="cls-11" d="m24.94,34.2l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09Z"/>
+    </g>
+    <g class="cls-66">
+      <path class="cls-11" d="m23.85,36.47l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1Z"/>
+    </g>
+    <g class="cls-85">
+      <path class="cls-11" d="m24.44,36.18l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1h0Z"/>
+    </g>
+    <g class="cls-28">
+      <path class="cls-11" d="m25.26,35.78s.08,0,.09.03l.43.89s0,.08-.03.1l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.09l.22-.11Z"/>
+    </g>
+    <g class="cls-20">
+      <path class="cls-11" d="m25.63,35.6l.22-.11s.08,0,.1.03l.43.89s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.43-.89s0-.08.03-.1h0Z"/>
+    </g>
+    <g class="cls-49">
+      <path class="cls-11" d="m22.22,32.39l.22-.11s.08,0,.09.03l.19.4s0,.08-.03.09l-.22.11s-.08,0-.09-.03l-.19-.4s0-.08.03-.1Z"/>
+    </g>
+    <g class="cls-127">
+      <path class="cls-11" d="m22.81,32.11l.22-.11s.08,0,.1.03l.19.4s0,.08-.03.1l-.22.11s-.08,0-.09-.03l-.19-.4s0-.08.03-.1h0Z"/>
+    </g>
+    <g class="cls-54">
+      <path class="cls-11" d="m23.41,31.81l.22-.11s.08,0,.1.03l.19.4s0,.08-.03.1l-.22.11s-.08,0-.1-.03l-.19-.4s0-.08.03-.1Z"/>
+    </g>
+    <path class="cls-72" d="m41.76,38.7c.27-.38.88-.43,1.44-.16.14-.11.3-.24.46-.36.52-.41,1.2-.62,1.83-.18l1.6,1.12c.67.47.7.87.45,1.78-.26.94-.44,1.51-.78,1.92-.28.34-.57.18-.77.04l-4.29-3.01c-.62-.44-.23-.7.08-1.15h0Z"/>
+    <path class="cls-11" d="m45.43,40.18l.79-1.12.59.41c.47.33.49.52.33,1.14-.02.06-.15.52-.2.63l-1.51-1.06h0Z"/>
+    <path class="cls-11" d="m45.06,39.92l.79-1.12-.61-.43c-.47-.33-.87-.24-1.33.18-.05.04-.26.23-.34.31l1.5,1.05h0Z"/>
+    <path class="cls-86" d="m41.83,39.67c.26-.37.76-.45,1.13-.2.37.26.45.76.2,1.13-.26.37-.76.45-1.13.2s-.46-.76-.2-1.13Z"/>
+    <path class="cls-43" d="m42.2,39.93c.11-.16.33-.2.5-.09.16.11.2.34.09.5-.11.16-.33.2-.49.09-.16-.11-.2-.34-.09-.5h0Z"/>
+    <path class="cls-86" d="m44.89,41.82c.26-.37.76-.45,1.13-.2.37.26.45.76.2,1.13-.26.37-.76.45-1.13.2s-.46-.76-.2-1.13h0Z"/>
+    <path class="cls-43" d="m45.26,42.08c.11-.16.33-.2.5-.09.16.11.2.34.09.5-.11.16-.33.2-.5.09-.16-.11-.2-.34-.09-.5Z"/>
+    <path class="cls-15" d="m44.07,38.84s.01.04.04.05l.19.02s.04-.01.05-.04l.04-.44s-.01-.04-.04-.05l-.2-.02s-.04.01-.04.04l-.04.44h0Z"/>
+    <path class="cls-86" d="m45.01,39.35c-.1-.07-.19-.13-.29-.2-.04-.03-.09-.05-.15-.03,0,0-.22.05-.4.09.03-.16.05-.33.06-.38.02-.1-.04-.18-.14-.2-.08-.01-.18.02-.2.15,0,.05-.02.13-.03.31l1.13.8c.03-.05.04-.07.07-.13.1-.17.06-.32-.06-.4Z"/>
+    <path class="cls-86" d="m44.8,38.74c.11-.16.32-.19.48-.09.16.11.2.33.09.48-.11.16-.33.2-.48.09-.16-.11-.2-.33-.09-.49h0Z"/>
+    <path class="cls-86" d="m46.41,40.7c.09-.12.06-.3-.07-.39l-.32-.22c-.12-.09-.3-.06-.39.07l-.08.11.77.54.08-.12h0Z"/>
+    <path class="cls-86" d="m46.11,39.69c-.11.16-.07.38.09.49.16.11.38.07.49-.09.11-.16.07-.38-.09-.49-.16-.11-.38-.07-.49.09Z"/>
+    <path class="cls-14" d="m31.03,3.41s.03.02.03.04v.25s-.01.04-.03.04c-.02,0-.03.02-.03.04v.08s.02.04.04.04h.01s.04.02.04.04v.05s.02.04.04.04h.04s.04.02.04.04v11.19c1.05-.08,2.1-.13,3.16-.13.18,0,.36,0,.54,0V4.04s.01-.04.03-.04h.05s.04-.02.04-.04v-.05s.02-.04.04-.04h.02s.04-.02.04-.04v-.08s-.01-.04-.03-.04c-.02,0-.03-.02-.03-.04v-.25s.01-.04.03-.04c.01,0,.03-.02.03-.04v-.08s-.02-.04-.04-.04h-.19s-.05-.01-.06-.03l-.96-1.69s-.04-.03-.06-.03h-1.53s-.05.02-.06.03l-.96,1.7s-.04.03-.06.03h-.19s-.04.02-.04.04v.08s.01.04.03.04h0Z"/>
+    <g class="cls-34">
+      <path class="cls-11" d="m31.64,4.23h.33s.08.03.08.08v.36s-.03.08-.07.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.08-.08Z"/>
+    </g>
+    <path class="cls-11" d="m31.56,5.16s.03-.08.08-.08h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.07v-.36h0Z"/>
+    <g class="cls-53">
+      <path class="cls-11" d="m31.64,5.94h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.07-.08h0Z"/>
+    </g>
+    <path class="cls-11" d="m31.56,6.87s.03-.08.07-.08h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36h0Z"/>
+    <path class="cls-11" d="m31.97,7.65s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.07-.03-.07-.08v-.36s.03-.08.07-.08h.33Z"/>
+    <path class="cls-11" d="m31.64,8.5h.33s.08.03.08.08v.35s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.07.07-.07Z"/>
+    <path class="cls-11" d="m31.56,9.43s.03-.08.07-.08h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.07v-.36h0Z"/>
+    <g class="cls-83">
+      <path class="cls-11" d="m32.48,4.23h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.07v-.36s.03-.08.08-.08Z"/>
+    </g>
+    <path class="cls-11" d="m32.48,5.08h.33s.08.03.08.08v.35s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.07.07-.07Z"/>
+    <path class="cls-11" d="m32.48,5.94h.33s.07.03.07.07v.36s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.07.07-.07Z"/>
+    <path class="cls-11" d="m32.48,6.79h.33s.08.03.08.08v.35s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.08.08-.08Z"/>
+    <path class="cls-11" d="m32.48,7.65h.33s.07.03.07.07v.36s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.07.07-.07Z"/>
+    <path class="cls-11" d="m32.41,8.58s.03-.08.08-.08h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36Z"/>
+    <g class="cls-42">
+      <path class="cls-11" d="m32.48,9.36h.33s.08.03.08.08v.36s-.03.08-.07.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.07-.08Z"/>
+    </g>
+    <path class="cls-11" d="m33.33,4.23h.33s.08.03.08.08v.35s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.08.08-.08Z"/>
+    <path class="cls-11" d="m33.25,5.16s.03-.07.07-.07h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.07-.03-.07-.08v-.36h0Z"/>
+    <path class="cls-11" d="m33.25,6.01s.03-.08.07-.08h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36h0Z"/>
+    <g class="cls-27">
+      <path class="cls-11" d="m33.33,6.79h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.08-.08Z"/>
+    </g>
+    <path class="cls-11" d="m33.33,7.64h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.08-.08h0Z"/>
+    <g class="cls-108">
+      <path class="cls-11" d="m33.33,8.5h.33s.08.03.08.07v.36s-.03.07-.07.07h-.33s-.08-.03-.08-.07v-.36s.03-.08.08-.08Z"/>
+    </g>
+    <path class="cls-11" d="m33.26,9.43s.03-.07.08-.07h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.07v-.36Z"/>
+    <rect class="cls-11" x="34.1" y="4.23" width=".48" height=".51" rx=".08" ry=".08"/>
+    <path class="cls-11" d="m34.1,5.16s.03-.07.08-.07h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36h0Z"/>
+    <path class="cls-11" d="m34.17,5.94h.33s.08.03.08.08v.35s-.03.08-.08.08h-.33s-.07-.03-.07-.07v-.36s.03-.08.08-.08Z"/>
+    <g class="cls-91">
+      <path class="cls-11" d="m34.17,6.79h.33s.08.03.08.07v.36s-.03.08-.07.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.08-.08Z"/>
+    </g>
+    <path class="cls-11" d="m34.17,7.64h.33s.08.03.08.08v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36s.03-.08.08-.08Z"/>
+    <path class="cls-11" d="m34.1,8.58s.03-.08.07-.08h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.08v-.36h0Z"/>
+    <path class="cls-11" d="m34.1,9.43s.03-.07.08-.07h.33s.08.03.08.07v.36s-.03.08-.08.08h-.33s-.08-.03-.08-.07v-.36h0Z"/>
+    <path class="cls-71" d="m34.38,15.11c1,0,1.99.04,2.98.11v-3.86s-.03-.06-.06-.06h-4.67s-.06.03-.06.06v3.79c.6-.03,1.21-.04,1.82-.04Z"/>
+    <path class="cls-11" d="m32.9,11.33h4.15s.06.03.06.06v3.23s-.03.06-.06.06h-4.15s-.06-.03-.06-.06v-3.23s.03-.07.07-.07Z"/>
+    <path class="cls-70" d="m36.28,13.18c0-.06-.22-.11-.48-.11s-.48.05-.48.11.21.11.48.11.48-.05.48-.11Z"/>
+    <path class="cls-86" d="m36.21,12.81c-.03-.09-.09-.25-.13-.33-.09-.21-.1-.25-.23-.25h-.26c-.13,0-.16.04-.23.25-.03.09-.07.23-.1.31-.04.13-.02.22.07.25.04.01.74.01.78,0,.09-.03.14-.12.1-.22h0Z"/>
+    <path class="cls-86" d="m36.15,13.46c-.23-.06-.49-.06-.71,0-.03-.35.08-.56.14-.57.08-.02.15,0,.2,0,.05,0,.13-.03.21,0,.07.02.18.22.17.56h0Z"/>
+    <path class="cls-86" d="m35.47,13.35c-.01-.07.03-.13.1-.14.07,0,.13.04.14.11,0,0,.1.76.14,1.01.01.09-.02.14-.07.14-.06,0-.1-.03-.12-.12-.05-.25-.2-1-.2-1Z"/>
+    <path class="cls-86" d="m35.87,13.31c.01-.07.08-.11.14-.1.07.01.11.08.1.15,0,0-.15.74-.2,1-.01.08-.06.12-.12.11s-.08-.06-.07-.16c.04-.26.14-1.01.14-1.01Z"/>
+    <path class="cls-110" d="m35.91,12.8s0,.02-.02.02h-.37s-.03-.01-.03-.02l-.11-.49s0-.02.02-.02h.37s.03,0,.03.02l.11.49Z"/>
+    <path class="cls-86" d="m35.92,12.6s-.09-.04-.14.01c-.04.05-.03.11,0,.15.01.01.26.22.27.23.04.03.1.02.13-.02.04-.05.04-.1,0-.14-.02-.02-.25-.21-.27-.23Z"/>
+    <path class="cls-86" d="m35.26,12.85s-.03.09.02.13c.04.04.1.04.14,0,0-.01.2-.23.21-.24.03-.04.03-.11-.01-.15-.05-.04-.11-.03-.14.01-.02.02-.19.22-.21.24h0Z"/>
+    <path class="cls-86" d="m35.71,11.7s.08,0,.11.03c.01,0,.02-.01.04-.02.07-.02.14.03.17.11.03.08,0,.16-.07.18.01.05.02.1.05.1.02,0,.03-.02.02-.03-.01-.01-.03,0-.03,0,0,0,0-.01.02-.02.01,0,.03,0,.04.03.01.03-.03.07-.06.08-.03,0-.06,0-.09-.04-.04.05-.11.09-.18.09-.13,0-.24-.11-.24-.25,0-.14.1-.25.24-.25Z"/>
+    <path class="cls-70" d="m34.51,13.18c0-.06-.22-.11-.48-.11s-.48.05-.48.11.22.11.48.11.48-.05.48-.11Z"/>
+    <path class="cls-86" d="m34.61,12.79c-.03-.09-.09-.23-.12-.32-.08-.22-.12-.26-.29-.26h-.34c-.17,0-.21.04-.29.26-.03.09-.09.24-.13.32-.05.12-.02.23.09.26.05.01.95.01.99,0,.12-.04.14-.15.09-.26h0Z"/>
+    <path class="cls-110" d="m34.45,12.97s-.04-.04-.04-.04c0,0-.02-.4-.03-.53,0,0,0-.01-.01-.01h-.83s-.01,0-.01.01c0,.14.02.42.03.56,0,0,0,.01.01.01h.87s0,0,0,0h0Z"/>
+    <path class="cls-86" d="m33.94,13.17c0-.08-.08-.14-.17-.12-.08.01-.14.08-.13.16l.14,1.16c0,.08.08.14.17.13.08,0,.14-.08.13-.16l-.13-1.16h0Z"/>
+    <path class="cls-86" d="m34.11,13.17c0-.08.08-.14.17-.12.08.01.14.08.13.16l-.14,1.16c0,.08-.08.14-.17.13-.08,0-.14-.08-.13-.16l.14-1.16h0Z"/>
+    <path class="cls-86" d="m34.26,11.93c0-.13-.11-.24-.24-.24s-.24.11-.24.24.11.24.24.24.24-.11.24-.24Z"/>
+    <polygon class="cls-70" points="36.77 13.11 36.77 12.98 33.01 12.98 33.01 13.11 33.99 13.11 33.99 14.47 33.8 14.47 33.8 14.53 33.99 14.53 33.99 14.69 34.06 14.69 34.06 14.53 34.25 14.53 34.25 14.47 34.06 14.47 34.06 13.11 35.76 13.11 35.76 14.47 35.57 14.47 35.57 14.53 35.76 14.53 35.76 14.69 35.83 14.69 35.83 14.53 36.02 14.53 36.02 14.47 35.83 14.47 35.83 13.11 36.77 13.11"/>
+    <path class="cls-86" d="m36.61,12.83s-.02.03-.03.03h0s0,0,0,0c0-.02,0-.04,0-.06,0,0,0,0,.01,0h0s.02.01.02.03h0s0,0,0,0Zm-.01-.06h0s0,0-.01,0v-.03h-.24c0,.09.01.18.06.21h-.07s0,0,0,0h.01s0,.02.01.02h.2s0,0,.01,0h.01s0-.02,0-.02h-.07s.04-.04.05-.07c0,0,0,0,.01,0h0s.05-.02.05-.05h0s-.01-.06-.04-.07Z"/>
+    <path class="cls-71" d="m37.49,11.18s0-.09-.02-.13l-.42-1.31s-.05-.06-.08-.06h-3.84s-.08.03-.09.06l-.59,1.31s-.03.09-.03.12v.25s.03.07.06.07h4.94s.07-.03.07-.07v-.25h0Z"/>
+    <path class="cls-11" d="m35.25,10.54s-.03,0-.05-.02c0-.03.01-.06.02-.09,0,0,.02,0,.03,0,.03,0,.06.03.06.06,0,.03-.03.06-.06.06Zm0-.17s-.02,0-.02,0v-.02h0s-.66,0-.66,0h0c0,.19.08.34.2.41h.26c.07-.04.12-.11.16-.19.02.01.04.02.06.02.06,0,.11-.05.11-.11s-.05-.11-.11-.11h0Z"/>
+    <path class="cls-11" d="m35.23,10.79h-.67s-.01,0,0,.02c.01.01.01.02.02.03,0,.01.02.01.03.01h.58s.02,0,.03-.02c0-.01.01-.02.02-.03,0,0,0-.02,0-.02h0Z"/>
+    <path class="cls-11" d="m34.77,10.27l.03.03s.07-.04.11-.04c.04,0,.07.01.1.03l.03-.03s-.08-.04-.13-.04c-.05,0-.1.02-.13.05Z"/>
+    <path class="cls-11" d="m34.71,10.21l.03.03s.1-.06.16-.06.11.02.15.05l.03-.03s-.11-.07-.18-.07-.13.03-.19.07h0Z"/>
+    <path class="cls-11" d="m34.9,10.07c-.09,0-.17.04-.24.09l.03.03c.05-.05.13-.08.21-.08.08,0,.15.03.2.07l.03-.03c-.06-.05-.14-.08-.23-.08h0Z"/>
+    <path class="cls-14" d="m41.82,15.81l2.04-12.32s-.02-.06-.05-.06l-3.24-.54s-.07.01-.07.05l-2.05,12.38c1.14.12,2.26.28,3.37.49Z"/>
+    <path class="cls-11" d="m41.95,10.42s.02.06.05.06l.16.02s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.02s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m42.19,8.99s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.72h0Z"/>
+    <path class="cls-11" d="m42.42,7.56s.02.06.05.06l.16.02s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m42.66,6.13s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.02s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m42.9,4.7s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.02s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m41.23,10.3s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m41.46,8.87s.02.06.05.06l.16.02s.07-.01.07-.04l.12-.71s-.02-.06-.06-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m41.7,7.44s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m41.94,6.01s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m42.18,4.58s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m40.51,10.18s.02.06.05.06l.16.02s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m40.74,8.75s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m40.98,7.32s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m41.22,5.89s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m41.46,4.46s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m39.78,10.07s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m40.02,8.63s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-11" d="m40.26,7.2s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m40.5,5.77s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.02s-.07.01-.07.04l-.12.71Z"/>
+    <path class="cls-11" d="m40.73,4.34s.02.06.05.06l.16.03s.07-.01.07-.04l.12-.71s-.02-.06-.05-.06l-.16-.03s-.07.01-.07.04l-.12.71h0Z"/>
+    <path class="cls-14" d="m6.48,26.67c.99-.99,2.04-1.93,3.13-2.81l-2.76-3.03s-.03-.09,0-.12l.12-.1s.03-.07-.02-.09l-1.28-.46s-.11,0-.15.03l-.06.05s-.1.04-.14.01c0,0-.29-.17-.64.15-.38.35-.22.63-.22.63.02.04.01.1-.02.13l-.69.62s-.1.04-.14.01c0,0-.28-.17-.64.15-.39.35-.22.63-.22.63.02.04.02.1-.02.13l-.07.06s-.06.1-.04.14l.33,1.32s.05.06.09.03l.12-.11s.09-.03.12,0l2.77,3.04c.14-.15.28-.29.43-.44h0Z"/>
+    <path class="cls-11" d="m3.71,22.1c-.14-.15-.38-.16-.53-.03-.15.14-.17.38-.03.53.11.12.31.35.31.35.03.04.09.04.12,0l.43-.39s.04-.09,0-.12c0,0-.23-.25-.31-.35h0Z"/>
+    <path class="cls-11" d="m5.43,20.55c-.14-.15-.38-.17-.53-.03-.15.14-.17.38-.03.53.11.12.31.35.31.35.03.04.09.04.12,0l.43-.38s.04-.09,0-.12c0,0-.23-.25-.31-.35Z"/>
+    <g class="cls-59">
+      <path class="cls-11" d="m3.95,23.92l.61-.56s.09-.03.12,0l.71.78s.03.09,0,.12l-.61.56s-.09.03-.12,0l-.71-.78s-.03-.09,0-.12Z"/>
+    </g>
+    <g class="cls-6">
+      <path class="cls-11" d="m5.92,22.14l.61-.56s.09-.03.12,0l.71.78s.03.09,0,.12l-.61.56s-.09.03-.12,0l-.71-.78s-.03-.09,0-.12Z"/>
+    </g>
+    <path class="cls-14" d="m22.94,16.79c1.07-.32,2.15-.6,3.26-.84l-3.12-11.85c-.02-.05-.07-.1-.13-.1l-3.3-.1c-.06,0-.09.04-.08.09l3.37,12.79h0Z"/>
+    <path class="cls-11" d="m22.49,5.79c.01.06.07.09.13.07l.23-.06c.06-.01.09-.07.08-.13l-.25-.96c-.01-.06-.08-.09-.13-.07l-.23.06c-.06.01-.1.07-.08.13l.25.96h0Z"/>
+    <path class="cls-11" d="m21.9,5.95c.01.06.07.09.13.07l.23-.06c.06-.01.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.01-.09.07-.08.13l.25.96h0Z"/>
+    <path class="cls-11" d="m21.3,6.11c.01.06.07.09.13.07l.23-.06c.06-.01.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.01-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m20.71,6.26c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.09.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22.89,7.28c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22.29,7.43c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.09.07-.08.13l.25.96h0Z"/>
+    <path class="cls-11" d="m21.69,7.59c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m21.1,7.75c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.08-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m23.39,9.21c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22.8,9.36c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.09.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22.2,9.52c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m21.61,9.68c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.08-.09-.13-.07l-.23.06c-.06.01-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m23.79,10.69c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m23.19,10.84c.01.06.07.09.13.07l.23-.06c.06-.01.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.02-.09.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22.59,11c.01.06.07.09.13.07l.23-.06c.06-.01.09-.07.08-.13l-.25-.96c-.01-.06-.07-.09-.13-.07l-.23.06c-.06.01-.1.07-.08.13l.25.96Z"/>
+    <path class="cls-11" d="m22,11.16c.01.06.07.09.13.07l.23-.06c.06-.02.09-.07.08-.13l-.25-.96c-.01-.06-.08-.09-.13-.07l-.23.06c-.06.02-.1.07-.08.13l.25.96h0Z"/>
+    <path class="cls-14" d="m30.36,15.31l-1.81-13.45s-.03-.05-.06-.05l-.21.03s-.06-.02-.06-.05l-.05-.37s-.03-.05-.06-.05l-.15.02s-.06-.02-.06-.05l-.04-.31s-.03-.05-.06-.05l-2.07.28s-.05.03-.05.06l.04.31s-.02.06-.05.06l-.15.02s-.05.03-.05.06l.05.37s-.02.06-.05.06l-.21.03s-.05.03-.05.06l1.81,13.48c1.1-.21,2.21-.37,3.35-.49h0Z"/>
+    <g class="cls-35">
+      <path class="cls-11" d="m28.49,5.19l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-22">
+      <path class="cls-11" d="m28.29,3.7l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-81">
+      <path class="cls-11" d="m28.15,2.61l.18-.02s.06.02.06.05l.05.4s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.05-.4s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-118">
+      <path class="cls-11" d="m27.99,5.26l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-78">
+      <path class="cls-11" d="m27.79,3.77l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-121">
+      <path class="cls-11" d="m27.64,2.68l.18-.02s.06.02.06.05l.05.4s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.05-.4s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-76">
+      <path class="cls-11" d="m27.49,5.33l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-117">
+      <path class="cls-11" d="m27.29,3.83l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-88">
+      <path class="cls-11" d="m27.14,2.75l.18-.02s.06.02.06.05l.05.4s-.02.06-.05.06l-.18.03s-.06-.02-.06-.05l-.05-.4s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-97">
+      <path class="cls-11" d="m26.96,5.4l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-116">
+      <path class="cls-11" d="m26.76,3.9l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-50">
+      <path class="cls-11" d="m26.59,2.82l.18-.02s.06.02.06.05l.05.4s-.02.06-.05.06l-.18.03s-.06-.02-.06-.05l-.05-.4s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-106">
+      <path class="cls-11" d="m26.46,5.46l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-12">
+      <path class="cls-11" d="m26.26,3.97l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <path class="cls-11" d="m26.11,3.35s.03.05.06.05l.18-.02s.05-.03.05-.06l-.05-.4s-.03-.05-.06-.05l-.18.03s-.05.03-.05.06l.05.4h0Z"/>
+    <g class="cls-56">
+      <path class="cls-11" d="m25.96,5.53l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-82">
+      <path class="cls-11" d="m25.76,4.03l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-4">
+      <path class="cls-11" d="m28.9,8.19l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-7">
+      <path class="cls-11" d="m28.7,6.69l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-21">
+      <path class="cls-11" d="m28.39,8.26l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-109">
+      <path class="cls-11" d="m28.19,6.76l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-128">
+      <path class="cls-11" d="m27.89,8.32l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-119">
+      <path class="cls-11" d="m27.69,6.83l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-125">
+      <path class="cls-11" d="m27.37,8.39l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-98">
+      <path class="cls-11" d="m27.17,6.9l.18-.02s.06.02.07.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-92">
+      <path class="cls-11" d="m26.86,8.46l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-123">
+      <path class="cls-11" d="m26.66,6.96l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-2">
+      <path class="cls-11" d="m26.36,8.53l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06Z"/>
+    </g>
+    <g class="cls-1">
+      <path class="cls-11" d="m26.16,7.03l.18-.02s.06.02.06.05l.12.87s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.12-.87s.02-.06.05-.06h0Z"/>
+    </g>
+    <g class="cls-115">
+      <path class="cls-11" d="m25.61,2.95l.18-.02s.06.02.06.05l.05.4s-.02.06-.05.06l-.18.02s-.06-.02-.06-.05l-.05-.4s.02-.06.05-.06h0Z"/>
+    </g>
+    <path class="cls-14" d="m46.33,16.95l2.51-9.3s0-.04,0-.06l-1.35-2.04s-.03-.02-.05-.01l-2.14,1.1s-.03.03-.04.05l-2.51,9.31c1.22.26,2.42.58,3.59.95h0Z"/>
+    <g class="cls-46">
+      <path class="cls-11" d="m45.23,9.11s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04l.1-.36Z"/>
+    </g>
+    <g class="cls-41">
+      <path class="cls-11" d="m45.31,8.81l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-24">
+      <path class="cls-11" d="m45.49,8.15l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-13">
+      <path class="cls-11" d="m45.66,7.49l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-67">
+      <path class="cls-11" d="m45.76,9.63l.1-.36s.02-.03.04-.02l.4.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-63">
+      <path class="cls-11" d="m45.94,8.97l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-45">
+      <path class="cls-11" d="m46.12,8.31l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-75">
+      <path class="cls-11" d="m46.3,7.66l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-30">
+      <path class="cls-11" d="m46.47,7.01l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.4-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-107">
+      <path class="cls-11" d="m46.39,9.8l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.4-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-124">
+      <path class="cls-11" d="m46.57,9.15l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.4-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-87">
+      <path class="cls-11" d="m46.75,8.49l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-29">
+      <path class="cls-11" d="m47.09,7.18l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-33">
+      <path class="cls-11" d="m47.01,9.97l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-19">
+      <path class="cls-11" d="m44.65,11.25l.39-1.43s.02-.03.04-.02l.41.11s.03.02.02.04l-.39,1.43s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-101">
+      <path class="cls-11" d="m45.28,11.42l.39-1.43s.02-.03.04-.02l.4.11s.03.02.02.04l-.39,1.44s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-90">
+      <path class="cls-11" d="m45.91,11.59l.39-1.43s.02-.03.04-.02l.41.11s.03.02.02.04l-.39,1.43s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-114">
+      <path class="cls-11" d="m46.54,11.76l.39-1.43s.02-.03.04-.02l.41.11s.03.02.02.04l-.39,1.44s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-16">
+      <path class="cls-11" d="m47.19,9.31l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.4-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-23">
+      <path class="cls-11" d="m47.37,8.65l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04h0Z"/>
+    </g>
+    <g class="cls-62">
+      <path class="cls-11" d="m47.55,8l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <g class="cls-69">
+      <path class="cls-11" d="m46.92,7.83l.1-.36s.02-.03.04-.02l.41.11s.03.02.02.04l-.1.36s-.02.03-.04.02l-.41-.11s-.03-.02-.02-.04Z"/>
+    </g>
+    <path class="cls-14" d="m16.28,16.18s.06.06.1.05l.07-.03,1.1,2.68c1.54-.73,3.14-1.36,4.79-1.89l-1.12-2.73.06-.02s.06-.06.04-.1l-.79-1.48s-.07-.06-.11-.04l-.23.09-.15-.36s-.06-.06-.1-.04l-.47.19s-.06.06-.04.11l.15.36-3.7,1.51s-.06.07-.05.12l.47,1.6h0Z"/>
+    <path class="cls-11" d="m20.48,16.2s.06.06.11.05l.73-.3s.06-.06.04-.1l-.39-.95s-.07-.06-.1-.04l-.73.3s-.06.06-.05.1l.39.95h0Z"/>
+    <path class="cls-11" d="m17.44,17.45s.06.06.1.04l.73-.3s.06-.06.05-.1l-.39-.95s-.07-.06-.11-.04l-.73.3s-.06.06-.04.1l.39.95h0Z"/>
+    <path class="cls-11" d="m19.37,18.06c.35-.15.71-.28,1.06-.42l-.7-1.68s-.07-.06-.11-.05l-.91.37s-.06.06-.04.11l.7,1.67h0Z"/>
+    <path class="cls-11" d="m19.4,14.54s.06.06.1.05l.67-.28s.06-.06.05-.11l-.21-.52s-.06-.09-.1-.11l-.43-.19s-.09,0-.1.04l-.18.45s-.02.11,0,.15l.21.52Z"/>
+    <path class="cls-11" d="m17.1,15.49s.06.06.11.04l.67-.28s.06-.06.04-.1l-.21-.52s-.06-.09-.1-.11l-.43-.19s-.09,0-.11.04l-.18.45s-.02.11,0,.15l.21.52h0Z"/>
+    <path class="cls-14" d="m8.23,19.77l.19-.12s.1-.02.13.03l2.14,3.34c1.31-.98,2.68-1.89,4.11-2.71l-2.12-3.29s-.01-.1.03-.13l.19-.12s.04-.07,0-.09l-1.54-.8s-.12-.02-.16,0l-3.07,1.98s-.08.09-.07.14l.09,1.74c0,.05.04.07.08.04Z"/>
+    <g class="cls-104">
+      <path class="cls-11" d="m9.36,19.52l.91-.58s.09-.01.11.02l.49.75s.01.09-.02.11l-.91.59s-.09.01-.11-.03l-.49-.75s-.01-.09.02-.11h0Z"/>
+    </g>
+    <g class="cls-37">
+      <path class="cls-11" d="m11.24,18.3l.91-.59s.09-.01.11.02l.49.75s.01.09-.02.11l-.91.58s-.09.01-.11-.02l-.49-.75s-.01-.09.02-.11h0Z"/>
+    </g>
+    <path class="cls-14" d="m66.66,20.18c-.92-.93-3.05-.33-4.1.72-.97.96-1.14,2.38-.45,3.33l-1.22,1.11c.2.18.39.36.59.55l1.08-1.19c.94.7,2.37.54,3.34-.42,1.06-1.05,1.68-3.16.75-4.09h0Z"/>
+    <path class="cls-58" d="m25.55,22.16h3.45s0,.47,0,.47h-3.45s0-.47,0-.47h0Zm0-.46h3.45v.08h-3.45v-.08h0Zm-.73,1.22l4.95.02s.04-.02.03-.04l-.07-.22s-.03-.04-.06-.04h-.47v-.46h.44s.02,0,.02-.02v-.35s0-.02-.02-.02h-.44v-.08h.44s.02,0,.02-.02v-.35s0-.02-.02-.02h-.44v-.18s0-.02-.02-.02h-.17s-.02,0-.02.02v.18h-3.45v-.19s0-.02-.02-.02h-.17s-.02,0-.02.02v.18h-.44s-.02,0-.02.02v.35s0,.02.02.02h.44v.08h-.44s-.02,0-.02.02v.35s0,.02.02.02h.44v.46h-.42s-.05.02-.06.04l-.07.22s0,.04.03.04h0Z"/>
+    <path class="cls-58" d="m29.92,23.26l-.07-.21s-.03-.05-.06-.05h-4.99s-.05,0-.06.03l-.07.22s0,.04.03.05h.49v1.36s0,.02.01.02h.23s.02-.01.02-.02v-1.36s3.65.01,3.65.01v1.36s0,.02.01.02h.23s.02,0,.02-.02v-1.36s.54,0,.54,0c.02,0,.04-.02.03-.04h0Z"/>
+    <path class="cls-86" d="m27.75,21.77v-.22l.08.25s-.05-.02-.08-.03Zm.53.09c-.06-.17-.19-.5-.26-.66-.09-.24-.21-.34-.41-.34h-.69c-.24,0-.36.13-.45.35-.07.17-.26.63-.26.63-.01.04-.02.08-.02.13s.01.13.07.2c.06.07.14.09.2.09h.23v.53h1.11v-.6c.08.03.09.03.15.05.1.03.22,0,.27-.06.05-.05.08-.13.08-.21,0-.04,0-.08-.02-.12h0Z"/>
+    <path class="cls-18" d="m27.53,22.09s0,.04-.03.04h-.64s-.05-.02-.05-.04l-.19-.84s.01-.04.03-.04h.64s.04.02.05.04l.19.84Z"/>
+    <path class="cls-86" d="m26.95,21.88h-.47c-.1,0-.19.09-.19.19s.08.19.19.19h.47c.11,0,.19-.09.19-.19s-.09-.19-.19-.19Z"/>
+    <path class="cls-86" d="m27.66,22.29c.08-.11.24-.13.34-.04.11.08.13.24.04.35l-1.22,1.57c-.08.11-.24.13-.35.04-.11-.08-.13-.24-.04-.35l1.22-1.57Z"/>
+    <path class="cls-86" d="m27.12,22.41c-.02-.14-.14-.23-.27-.22-.14.02-.23.14-.22.27l.23,1.97c.01.13.14.23.27.21.14-.02.23-.14.22-.27l-.23-1.97h0Z"/>
+    <path class="cls-86" d="m27.65,20.39c0-.22-.18-.41-.41-.41s-.41.18-.41.41.18.41.41.41.41-.18.41-.41Z"/>
+    <path class="cls-86" d="m37.08,21.38c-.11.12-.1.3.03.42l.4-.41c-.12-.12-.32-.12-.42,0Z"/>
+    <path class="cls-86" d="m37.77,23.21c.07,0,.13.06.13.13s-.06.13-.13.13-.13-.06-.13-.13.06-.13.13-.13Zm-1.5.13c0,.07-.06.13-.13.13s-.13-.06-.13-.13.06-.13.13-.13.13.06.13.13Zm2.46-2.87s-.18,0-.25.02c-.05,0-.09.03-.13.07-.06.06-2.04,2.15-2.13,2.25-.07.07-.11.15-.13.22-.15.03-.27.16-.27.31,0,.18.14.32.32.32s.32-.14.32-.32c0-.15-.11-.28-.25-.31.02-.11.25-.31.42-.48l.9.17.11.33c-.11.05-.19.16-.19.29,0,.18.14.32.32.32s.32-.14.32-.32-.14-.32-.32-.32h-.01l-.1-.32.37-1.63c.25-.26.36-.38.4-.42.02-.03.06-.05.07-.05.06,0,.25-.02.25-.02v-.12s0,0,0,0Z"/>
+    <path class="cls-86" d="m36.8,22.13s-.49.53-.55.58c-.05.04-.14.02-.16-.01-.03-.03-.07-.09.02-.18.09-.09.31-.36.38-.4.09-.05.31.02.31.02h0Z"/>
+    <path class="cls-58" d="m39.14,19.72s0,.02,0,.02h-.28s-.02-.02-.03-.04l-.23-.41s0-.02,0-.02h.28s.02.02.03.03l.23.41h0Z"/>
+    <path class="cls-86" d="m41.21,23.28l-.66-.72-.2-.55.16-.02-.44-1.28s0-.24,0-.4c-.01-.39-.03-.63-.22-.67-.09-.02-.34-.03-.44.1-.05.06-.21.29-.22.31l-.23-.41c-.04-.08-.15-.11-.22-.06-.08.04-.11.15-.06.22l.32.56c-.11-.02-.23-.04-.29-.04-.1-.01-.18.04-.2.14-.01.08.03.18.15.2.15.02.44.07.58.09.07,0,.12,0,.18-.01v.04s-.17,1.35-.17,1.35h.14s-.37,1.28-.37,1.28c-.03.1.03.21.14.24.02,0,.05,0,.07,0,.08,0,.15-.06.17-.14l.41-1.44h.14s.23.62.23.62c.02.05.04.08.08.12l.66.72s.11.07.17.06c.04,0,.08-.02.11-.05.08-.07.09-.2.02-.27h0Z"/>
+    <path class="cls-86" d="m39.33,19.02c.08-.18.27-.27.45-.23.06-.05.14-.09.23-.07.33.07.19.67.32.73,0,0,.01,0,.02,0,.07,0,.09-.09.06-.13-.04-.05-.1,0-.1,0,0,0,.02-.05.07-.06.03,0,.08,0,.11.09.03.12-.06.31-.22.33-.17.02-.26-.06-.3-.22-.11.1-.28.14-.42.07-.2-.09-.29-.32-.21-.52h0Z"/>
+    <polygon class="cls-11" points="28.21 36.06 28.21 36.1 27.92 36.34 27.63 36.12 27.63 36.06 28.21 36.06"/>
+    <path class="cls-86" d="m28.29,36.86l.06-.31.11.34-.16-.04Zm-.94.13l.17-.4.05.4h-.22Zm1.46-.06c-.05-.14-.16-.43-.22-.58-.08-.2-.18-.3-.35-.3h-.1l.06.04-.19.1.07-.14h-.02l-.13.26-.13-.26h-.02l.07.14-.19-.1.06-.04h-.05c-.2,0-.3.11-.38.31-.06.15-.22.55-.22.55-.01.03-.02.07-.02.11,0,.05,0,.12.06.17.05.06.12.08.17.08.07,0,.3,0,.3,0l-.28,1.17h.25v1.55c0,.1.09.19.19.19s.19-.09.19-.19v-1.55h.09v1.55c0,.1.09.19.19.19s.19-.09.19-.19v-1.55h.24l-.31-1.25c.07.02.17.06.21.08.22.08.36-.12.28-.33h0Z"/>
+    <polygon class="cls-11" points="27.85 37.49 27.92 37.18 27.98 37.49 27.85 37.49"/>
+    <path class="cls-17" d="m28.13,37.14s0,.03-.03.03h-.52s-.04-.01-.04-.03l-.15-.68s0-.03.02-.03h.52s.04.01.04.03l.15.68Z"/>
+    <path class="cls-86" d="m27.64,36.97h-.38c-.09,0-.16.07-.16.16s.07.16.16.16h.38c.09,0,.16-.07.16-.16s-.07-.16-.16-.16Z"/>
+    <path class="cls-86" d="m27.88,35.19c.06,0,.12.02.18.05.02-.01.04-.02.06-.03.11-.03.23.05.27.18.04.13-.01.26-.12.29.02.09.03.16.09.17.04,0,.05-.04.03-.06-.02-.02-.05,0-.05,0,0,0,0-.02.03-.02.02,0,.05,0,.06.04.02.06-.04.11-.1.12-.05,0-.1,0-.15-.06-.07.09-.17.14-.29.15-.21,0-.39-.18-.39-.41,0-.23.17-.41.38-.41Z"/>
+    <path class="cls-86" d="m36.81,35.46s-.08.02-.11.04v-.33l.13.3h-.02Zm-1.13-.07l.08-.18v.16s-.05.02-.08.03Zm1.56.07s-.18-.41-.25-.56c-.09-.2-.2-.31-.44-.31h-.67c-.19,0-.31.09-.4.3-.06.15-.19.44-.25.59-.01.03-.02.07-.02.11,0,.07.03.14.08.18.05.05.17.08.26.05.05-.01.12-.04.19-.06l-.04.84h.04v2.03c0,.12.1.21.21.21s.22-.1.22-.21v-2.03h.09v2.03c0,.12.1.21.21.21s.21-.1.21-.21v-2.03h.06l-.04-.76h.27c.06,0,.14-.02.19-.08.06-.06.07-.13.07-.18,0-.05-.01-.08-.02-.12Z"/>
+    <polygon class="cls-11" points="36.02 34.57 36.24 35.34 36.45 34.57 36.02 34.57"/>
+    <polygon class="cls-11" points="36.3 36.11 36.24 35.82 36.17 36.11 36.3 36.11"/>
+    <polygon class="cls-86" points="36.2 34.72 36.28 34.72 36.32 34.58 36.15 34.58 36.2 34.72"/>
+    <polygon class="cls-86" points="36.2 34.74 36.28 34.74 36.36 35.25 36.11 35.25 36.2 34.74"/>
+    <path class="cls-18" d="m35.97,35.77s0,.04.03.04h.62s.04-.02.05-.04l.18-.81s0-.04-.03-.04h-.62s-.04.02-.05.04l-.18.81Z"/>
+    <path class="cls-86" d="m36.53,35.46h.45c.1,0,.19.08.19.18s-.08.19-.19.19h-.45c-.1,0-.19-.08-.19-.19s.08-.18.19-.18Z"/>
+    <path class="cls-86" d="m35.85,34.13c0-.21.17-.38.38-.38s.38.17.38.38-.17.38-.38.38-.38-.17-.38-.38Z"/>
+    <path class="cls-86" d="m32.98,50.87l.41-.44c.06-.07.17-.07.23,0,.07.06.07.17.01.24l-.41.47-.25-.25h0Z"/>
+    <path class="cls-11" d="m33.57,50.84s0,.03,0,.03l.34-.06s.03-.02.04-.04l.33-.7s0-.03,0-.03l-.34.06s-.03.02-.04.04l-.33.7Z"/>
+    <path class="cls-86" d="m33.98,50.6c-.08-.04-.18-.02-.22.06l-.25.43-.1-.12.03-.03c.07-.07.07-.19,0-.27,0,0-.15-.19-.21-.25-.12-.13-.36-.1-.45-.07-.19.05-.19.3-.17.7,0,.17.02.41.02.41l-.35,1.34h.2s-.23,1.44-.23,1.44c-.01.08.03.16.1.2.02.01.05.02.07.03.11.02.21-.06.23-.17l.23-1.48h.11s.16,1.47.16,1.47c0,.08.07.15.14.17.02,0,.05,0,.08,0,.11-.01.19-.11.18-.22l-.15-1.41h.18s-.28-1.36-.28-1.36c0,0,0-.05.02-.12.03.04.06.07.08.1.03.03.07.07.13.07h0c.07,0,.13-.04.15-.08h0s.36-.64.36-.64c.04-.08.02-.18-.06-.23h0Z"/>
+    <path class="cls-86" d="m32.21,50.05s.02.09.13.1c.13.01.16-.1.22-.32.04-.14.13-.26.28-.3.21-.05.42.07.47.28.05.21-.07.42-.28.47-.05.01-.1.02-.14.01-.17,0-.23.04-.33.18-.09.12-.23.14-.35.07-.23-.14,0-.49,0-.49h0Z"/>
+    <path class="cls-11" d="m34.79,50.79s0,.02-.01.02l-.21-.07s-.01-.01-.01-.02l-.05-.41s0-.02.01-.02l.21.07s.01.01.01.02l.04.41h0Z"/>
+    <path class="cls-86" d="m36.26,54.49c-.13.01-.25-.08-.26-.21l-.23-2.05h-.04s-.24,2.04-.24,2.04c-.01.13-.13.22-.26.21-.13-.01-.22-.13-.21-.26,0,0,.15-1.3.24-2.04,0-.13-.01-.4-.03-.69-.01.01-.03.02-.05.03h0c-.07.03-.15,0-.19-.04h0s-.57-.56-.57-.56c-.07-.07-.07-.18,0-.26.07-.07.18-.07.26,0l.37.36s.1-.27.18-.49c.03-.31.19-.41.29-.44.04-.01.08-.02.12-.02.11,0,.38.07.44.43.08.54.14,1.47.15,1.55.1.84.25,2.18.25,2.18.01.13-.08.25-.21.26h0Z"/>
+    <path class="cls-86" d="m35.17,49.67c-.02-.22.15-.41.37-.43.22-.02.41.15.43.37.02.22-.15.41-.37.43-.22.02-.41-.15-.43-.37Z"/>
+    <path class="cls-86" d="m16.37,24.69c-.05-.15-.13-.37-.18-.53.09-.03.22-.08.33-.12l-.15.65Zm-1.48.95l.73.6c.07.05.15.08.22.08.09,0,.19-.03.26-.11l.62-.68h.01s.51.82.51.82h0l.16,1.4c.01.14.13.24.26.24h.03c.15-.02.25-.15.23-.29l-.14-1.35c-.02-.1-.04-.18-.09-.27l-.48-.75.13-.6.04.15c.03.13.15.22.28.22.03,0,.05,0,.07,0l.66-.16c.11-.03.18-.14.15-.25-.03-.11-.14-.18-.25-.15l-.53.13s-.14-.61-.19-.81c-.01-.05-.05-.13-.12-.14-.17-.04-.51-.12-.67-.15-.04-.01-.09,0-.14,0,0,0-.49.17-.65.23-.06.02-.11.06-.16.11-.05.06-.07.14-.07.21,0,.05,0,.09.02.13.09.26.25.72.25.72.03.08.11.14.19.14.02,0,.03,0,.05,0l-.04.19-.41.44-.61-.49c-.11-.09-.28-.08-.37.04-.09.11-.07.28.04.37h0Z"/>
+    <path class="cls-86" d="m17.2,22.76c.23-.04.44.12.47.35.03.23-.12.44-.35.47-.23.03-.44-.12-.47-.35-.03-.23.12-.44.35-.47h0Z"/>
+    <path class="cls-11" d="m15.94,23.85s-.03.02-.02.04l.07.19s.02.03.04.02l.4-.13s.03-.02.02-.04l-.06-.19s-.02-.03-.04-.02l-.4.13h0Z"/>
+    <path class="cls-11" d="m17.24,23.05l.11-.29s.01,0,.02,0l.08.03s.01.01,0,.02l-.1.29c.05.04.07.11.05.17-.03.08-.12.12-.2.1-.08-.03-.12-.12-.1-.2.02-.06.08-.1.14-.11h0Z"/>
+    <path class="cls-86" d="m48.7,28.44s.05-.09.02-.11c-.02-.03-.06-.04-.11-.02-.07.03-.22.14-.24.14-.03,0-.79.02-.94.03.69-.36,2.56-1.39,2.86-1.56l-.04-.06c-.3.17-2.24,1.24-2.9,1.58-.11-.13-.32-.38-.39-.44-.02-.02-.05,0-.05.01,0,.03,0,.08,0,.11,0,.02-.02.06-.03.08-.07.09-.2.23-.29.33-.03.04,0,.09.02.11.03.04.08.12.17.09.05-.02.14-.05.19-.07.02,0,.06,0,.08.05.08.16.14.32.12.36-.05.09-.18.35-.25.47-.03.05,0,.12.05.15.05.03.12.01.15-.04.06-.1.22-.42.22-.42,0,0,.17.31.23.41.03.05.1.07.15.04.06-.03.07-.1.04-.15-.06-.1-.22-.39-.22-.39h.51s-.15.29-.21.39c-.03.05,0,.12.05.15.06.03.12.01.15-.04.06-.11.24-.46.24-.46,0,0,.19.34.26.45.03.05.1.07.15.04.05-.03.07-.1.04-.15-.07-.12-.23-.4-.27-.47-.01-.03,0-.3,0-.4,0-.02.18-.12.23-.18h0Z"/>
+    <path class="cls-71" d="m49.4,26.14s.03.03.06.02l.18-.08s.03-.03.02-.06l-.18-.41s-.03-.03-.06-.02l-.18.08s-.03.03-.02.06l.18.41Z"/>
+    <path class="cls-86" d="m50.67,26.67c0-.06,0-.13,0-.17l.09.12-.09.05Zm.92,2.71l-.61-.78-.13-.47h.17s-.29-1.11-.29-1.11c.11-.06.24-.13.35-.19.12-.06.12-.18.06-.28,0,0-.45-.72-.5-.78-.02-.03-.06-.07-.11-.09-.09-.03-.35-.05-.46.08-.05.06-.21.25-.21.25-.08.08-.08.2,0,.27l.03.03c-.05.09-.09.16-.09.16l-.26-.39c-.05-.07-.15-.09-.23-.04-.08.05-.1.15-.04.23l.4.6h0s.09.08.16.07h0c.06,0,.11-.05.13-.09l.05-.08s0,.05,0,.05l-.27,1.36h.14s-.45,1.29-.45,1.29c-.04.11.02.22.12.25.03.01.05.01.07.01.08,0,.15-.05.18-.13l.51-1.44h.14s.16.56.16.56c.02.05.03.08.07.13l.61.78c.04.05.1.08.17.08.04,0,.08-.02.12-.04.09-.07.1-.19.03-.28h0Z"/>
+    <path class="cls-86" d="m50.95,25.66c.28-.02.18-.3.18-.3,0,0-.02.12-.13.12-.16,0-.17-.14-.26-.35-.05-.14-.17-.25-.32-.27-.21-.03-.41.12-.44.33-.03.21.12.41.33.44.05,0,.1,0,.14,0,.1,0,.14.02.24.16.07.1.12.17.28.15.22-.01.22-.23.22-.23,0,0-.2.07-.25-.04h0Z"/>
+    <path class="cls-11" d="m50.42,25.15l.02-.29s0-.01-.01-.01h-.08s-.01,0-.01,0l-.02.29c-.06.02-.1.07-.11.13,0,.08.05.15.13.16.08,0,.15-.06.16-.14,0-.06-.03-.12-.08-.14h0Z"/>
+    <path d="m28.76,12.12s0,.02,0,.02l.19-.03s.01-.01.02-.02l.09-.34s0-.01,0-.01l-.19.03s-.01,0-.02.02l-.09.34Z"/>
+    <path class="cls-86" d="m27.97,13.48l-.09-.65-.25.77c-.02.06-.07.09-.12.1-.02,0-.04,0-.07,0-.08-.03-.12-.11-.09-.18,0,0,.28-.92.4-1.24.05-.13.2-.18.38-.17.14,0,.3.13.36.3l.14.16.24-.47c.04-.08.14-.11.21-.07.03.01.05.04.07.06.03.04.03.1,0,.15,0,0-.37.71-.39.73-.04.06-.12.05-.16.03l.06.39s.69,1.41.88,1.79c.05.1,0,.21-.09.26-.02.01-.04.02-.06.02-.08.01-.16-.03-.2-.11-.2-.39-.79-1.58-.79-1.58h-.05s-.24,1.3-.32,1.74c-.02.08-.08.15-.17.16-.02,0-.04,0-.06,0-.11-.02-.18-.12-.16-.23.08-.42.32-1.95.32-1.95h0Z"/>
+    <path class="cls-86" d="m27.68,11.79c-.03-.19.1-.36.29-.38.19-.03.36.1.38.29.03.19-.1.36-.29.39-.19.03-.36-.11-.39-.29h0Z"/>
+    <path class="cls-86" d="m26.88,15.62c.13-.26.53-1.03.53-1.03v-.08c-.09,0-.16-.01-.2-.02.03-.66.05-1.16.05-1.16,0,0-.25-.85-.08-.97.07-.05.25-.07.38.02.06.04.15.12.2.18.06.07.1.15.05.21l-.04.05c.01.11.05.41.05.41,0,0,.4.83.49,1.06-.02.01-.06.05-.16.08,0,0,.41.75.55,1,.04.07.01.16-.06.2-.01,0-.03.01-.05.02-.06,0-.12-.02-.15-.07-.15-.26-.58-1.06-.58-1.06-.05.01-.15.03-.18.03v.07c0,.06,0,.11-.03.16,0,0-.4.78-.53,1.03-.02.04-.06.07-.11.08-.03,0-.06,0-.09-.01-.07-.04-.1-.12-.06-.2h0Z"/>
+    <path class="cls-3" d="m27.51,12.79h-.37s0-.26,0-.26c0-.09.07-.16.16-.16h.05c.09,0,.16.07.16.16v.26h0Zm-.45.54h.54c.06,0,.1-.05.1-.11l-.05-.43h-.07v-.26c0-.12-.11-.22-.23-.22h-.05c-.12,0-.23.1-.22.23v.26h-.07l-.04.43c0,.06.04.1.1.1h0Z"/>
+    <path class="cls-86" d="m27.19,12.55c-.01-.08.04-.15.12-.17.08-.01.16.04.17.12l.2,1.27c.01.08-.04.15-.12.17h0c-.08.01-.16-.04-.17-.12l-.2-1.27h0Z"/>
+    <path class="cls-86" d="m27.19,11.62c-.05.01-.1.04-.14.07-.02,0-.04-.01-.06-.01-.1,0-.18.09-.18.2,0,.11.06.2.16.2,0,.07,0,.13-.04.15-.03.01-.04-.02-.04-.04.01-.02.04-.01.04-.01,0,0-.01-.02-.03-.01-.01,0-.04.01-.04.05,0,.05.06.08.11.08.04,0,.08-.03.11-.08.07.05.17.08.26.05.17-.05.28-.23.23-.41-.05-.18-.22-.29-.39-.24h0Z"/>
+    <path class="cls-11" d="m50.73,14.16c4.21,1.16,8.06,3.43,11.13,6.54-.52.53-1.04,1.07-1.57,1.6-1.8-1.85-3.91-3.37-6.21-4.49-.21.43-.42.86-.64,1.29-.55-.27-1.12-.52-1.69-.74.16-.45.33-.89.49-1.34-.75-.29-1.52-.54-2.3-.74.25-.71.51-1.42.78-2.12h0Z"/>
+    <path class="cls-86" d="m51.97,15.85l-.37-.13c-.09-.03-.17-.01-.24.03-.21.1-.55.28-.55.28l-.31-.11c-.07-.03-.15.01-.18.09-.03.07.01.15.09.18,0,0,.29.1.38.13.07.02.1.01.14,0l.34-.23-.16.44.82.29.22-.61c.05-.15-.03-.31-.18-.36h0Z"/>
+    <path class="cls-86" d="m51.59,15.3c-.06.2.05.4.25.46.2.06.4-.05.46-.25.06-.19-.05-.4-.25-.46-.2-.06-.4.05-.46.25Z"/>
+    <path class="cls-86" d="m58.92,20.1c.1-.11.21-.06.33.04l.29.25c.11.1.19.21.09.32l-.36.42-.7-.6.36-.42h0Z"/>
+    <path class="cls-86" d="m59.96,20.19c-.13.16-.37.18-.53.04-.16-.14-.17-.37-.04-.53.13-.16.37-.18.53-.04.16.13.17.37.04.53Z"/>
+    <path class="cls-86" d="m59.82,20.98c.11-.11.22-.05.33.06l.27.27c.11.11.17.22.06.32l-.39.39-.66-.65.39-.39h0Z"/>
+    <path class="cls-86" d="m60.85,20.62c.14.15.15.38,0,.53-.15.15-.38.15-.53,0-.15-.15-.15-.38,0-.53.15-.15.38-.15.53,0h0Z"/>
+    <path class="cls-86" d="m58.1,19.45c.09-.12.21-.07.33.02l.3.24c.12.09.19.2.1.32l-.34.43-.73-.58.35-.43h0Z"/>
+    <path class="cls-86" d="m59.15,19.5c-.13.16-.36.19-.53.06-.16-.13-.19-.36-.06-.53.13-.16.36-.19.53-.06.16.13.19.36.06.52h0Z"/>
+    <path class="cls-86" d="m57.17,18.81c.08-.12.2-.08.33,0l.32.22c.12.08.2.18.12.31l-.31.45-.77-.52.31-.45h0Z"/>
+    <path class="cls-86" d="m58.21,18.78c-.12.17-.35.22-.52.1-.17-.12-.21-.35-.1-.52.12-.17.35-.21.52-.1.17.12.21.35.1.52Z"/>
+    <path class="cls-86" d="m56.3,18.27c.08-.13.2-.09.33-.01l.32.2c.13.08.21.17.13.3l-.29.46-.78-.5.3-.47Z"/>
+    <path class="cls-86" d="m57.35,18.21c-.11.18-.34.23-.52.12-.17-.11-.23-.34-.12-.52.11-.17.34-.23.51-.12.17.11.22.34.12.51Z"/>
+    <path class="cls-86" d="m55.37,17.7c.07-.13.2-.1.33-.03l.33.19c.13.07.22.16.15.3l-.27.48-.81-.45.27-.48h0Z"/>
+    <path class="cls-86" d="m56.41,17.59c-.1.18-.33.25-.51.14-.18-.1-.24-.33-.14-.51.1-.18.33-.24.51-.14.18.1.24.33.14.51Z"/>
+    <path class="cls-86" d="m54.48,17.23c.07-.13.19-.11.33-.04l.34.18c.13.07.23.16.16.29l-.26.49-.82-.43.26-.49h0Z"/>
+    <path class="cls-86" d="m55.51,17.09c-.1.18-.32.25-.5.16-.18-.1-.25-.32-.16-.5.09-.18.32-.25.5-.16.18.1.25.32.16.5h0Z"/>
+    <path class="cls-93" d="m59.51,21.13c.41-.44.81-.88,1.22-1.32.29.27.58.55.86.83-.41.44-.82.88-1.23,1.31-.28-.28-.56-.55-.85-.82h0Zm-.2-.18c-.45-.4-.92-.79-1.4-1.15.36-.48.73-.95,1.09-1.43.52.4,1.02.81,1.51,1.25-.4.45-.8.89-1.2,1.34Zm-1.63-1.32c-.49-.36-.99-.7-1.5-1.01.32-.51.64-1.02.96-1.53.55.34,1.09.71,1.61,1.1-.36.48-.72.96-1.07,1.45h0Zm-1.74-1.16c-.52-.31-1.04-.6-1.58-.87.27-.54.54-1.08.81-1.62.58.29,1.15.61,1.71.94-.31.51-.63,1.03-.94,1.54h0Zm-1.85-1.21c-.23-.11-.45-.21-.68-.31.22-.5.43-1,.65-1.49.25.11.49.22.73.33-.24.49-.47.98-.7,1.47h0Zm-.79,1.65c-.21-.1-.42-.19-.63-.29.23-.53.46-1.06.7-1.59.23.1.46.2.68.31-.25.52-.5,1.04-.75,1.56Zm-.02-2.01c-.22-.1-.45-.19-.67-.28.2-.51.4-1.01.6-1.52.24.1.48.19.72.3-.22.5-.43,1-.65,1.5Zm-.72,1.68c-.21-.09-.41-.17-.62-.26.21-.54.42-1.08.64-1.61.23.09.45.18.67.28-.23.53-.46,1.06-.69,1.59h0Zm-.39-1.92c-.63-.23-1.27-.44-1.92-.62.23-.57.46-1.13.69-1.7.63.18,1.25.39,1.86.62-.21.57-.43,1.13-.64,1.7h0Zm9.78,4.15s.04-.23-.09-.36c-3.01-3.05-6.75-5.27-10.87-6.44-.17-.05-.34.03-.35.1-.44,1.09-.86,2.19-1.27,3.29-.05.21.03.38.17.41.11.03.21.06.32.09.54.12,3.19.97,5.34,2.37,2.21,1.31,3.91,3.15,3.9,3.13.1.11.27.11.43-.04.81-.84,1.62-1.69,2.42-2.54h0Z"/>
+    <path class="cls-86" d="m50.08,17.21c.27-.39.81-.49,1.2-.21.39.27.49.81.21,1.21-.27.39-.81.48-1.2.21-.39-.27-.49-.81-.21-1.2Z"/>
+    <path class="cls-43" d="m50.48,17.49c.12-.17.36-.21.53-.09.17.12.21.36.09.53-.12.17-.36.21-.53.09-.17-.12-.21-.36-.09-.53Z"/>
+    <path class="cls-86" d="m57.31,21.43c.27-.39.81-.49,1.2-.21.39.27.49.81.21,1.21-.27.39-.81.48-1.2.21-.39-.27-.49-.81-.21-1.2Z"/>
+    <path class="cls-43" d="m57.71,21.71c.12-.17.36-.21.53-.09.17.12.21.36.09.53-.12.17-.36.21-.53.09-.17-.12-.21-.36-.09-.53Z"/>
+    <path class="cls-86" d="m41.99,14.03l-.16-.14.06-.07s.08-.03.14.01c.06.05.06.09.03.13l-.06.07Zm-.39-.34l-.56.63.61.54.56-.63-.19-.17.07-.07c.05-.05.06-.13-.03-.2-.08-.07-.16-.06-.2,0l-.07.08-.19-.17h0Z"/>
+    <path class="cls-17" d="m43.46,13.31s-.01.03,0,.03l.3.03s.03,0,.04-.02l.44-.5s.01-.03,0-.03l-.3-.03s-.03,0-.04.02l-.44.5h0Z"/>
+    <path class="cls-86" d="m41.27,15.44l.64-.47.27-.44-.15-.05.57-.95s.01-.06.03-.13l-.48.49c-.05.05-.13.05-.19,0-.05-.05-.06-.13,0-.19,0,0,.65-.7.87-.93.04-.04.09-.07.13-.07.08,0,.27.03.33.16.03.06.1.24.1.24.04.08.02.17-.06.21l-.03.02c.02.08.04.14.04.14l.29-.24c.06-.04.14-.04.19.02.05.05.04.14-.02.19l-.44.37h0s-.09.04-.14.02c-.05-.02-.07-.06-.08-.1l-.02-.07s-.02.04-.02.04l-.09,1.11-.11-.04.08,1.18c0,.09-.06.16-.15.17-.02,0-.04,0-.06,0-.06-.02-.11-.07-.11-.14l-.09-1.31-.09-.03-.32.5s-.04.06-.08.09l-.64.47s-.1.04-.14.02c-.03,0-.06-.03-.08-.06-.05-.07-.04-.17.03-.22h0Z"/>
+    <path class="cls-86" d="m42.39,12.48c.05-.02.09,0,.11.03.02.03,0,.07,0,.07,0,0,0-.06-.05-.06-.04,0-.08.06-.04.09.05.05.11,0,.19-.04-.07-.04-.11-.1-.13-.16-.04-.12,0-.31.14-.34.09-.02.14.03.16.06.02.05-.02.1-.02.1,0,0,.02-.08-.06-.1-.04-.01-.09,0-.11.05-.03.04,0,.11.03.15.06.05.2.08.32-.08.07-.1.19-.17.32-.16.18.02.32.18.3.36-.02.18-.18.32-.36.3-.04,0-.08-.02-.12-.03-.19-.06-.27.06-.41.13-.12.06-.24.05-.33-.05-.08-.09-.03-.27.07-.31h0Z"/>
+    <path class="cls-86" d="m15.82,17.71s-.04-.08,0-.14c.04-.06.09-.07.13-.04l.08.06-.13.18-.08-.06Zm.24-.16l-.08-.06c-.06-.04-.14-.04-.2.05-.07.09-.05.16.01.21l.08.06-.09.12.64.58.49-.64-.73-.46-.11.15h0Z"/>
+    <path class="cls-11" d="m13.93,17.33s.04,0,.05,0l.1-.13s0-.04,0-.05l-.31-.23s-.04,0-.05,0l-.1.13s-.01.04,0,.05l.3.23h0Z"/>
+    <path class="cls-86" d="m14.64,17.63s-.02.09-.06.12h0s-.11.03-.15.02h0l-.55-.28c-.07-.03-.1-.12-.06-.19.03-.07.12-.1.19-.06l.36.18s0-.07,0-.16h-.03c-.08-.03-.13-.12-.11-.22,0,0,.03-.2.05-.27.03-.14.24-.23.31-.25.05,0,.12-.02.2.03.12.08,1.03.85,1.03.85.07.04.09.12.06.19-.04.07-.12.09-.19.06l-.66-.54s.1.23.1.23l.84.8-.12.08.29.29.78.33c.09.03.13.14.09.22-.01.03-.04.06-.07.08-.05.03-.1.03-.16.01l-.78-.33s-.07-.03-.1-.07l-.35-.35-.1.06.22,1.29c.01.07-.02.14-.08.17-.02,0-.04.02-.06.02-.09.02-.18-.05-.2-.14l-.19-1.15-.1.06-.36-1.13s-.01-.01-.03-.03v.08s0,0,0,0Z"/>
+    <path class="cls-86" d="m15.1,16.01c-.05-.05-.1-.03-.12-.02-.03.02-.02.06-.02.06,0,0,.03-.06.07-.04.03,0,.06.08,0,.1-.13.06-.25-.44-.54-.35-.09.02-.15.1-.16.17,0,0-.02,0-.03,0-.18-.01-.34.13-.34.31-.01.18.13.34.31.35.18,0,.34-.13.35-.31,0-.15-.09-.28-.22-.33.19-.05.22.17.34.31.1.1.21.13.33.05.11-.07.11-.23.04-.3h0Z"/>
+    <path class="cls-11" d="m14.29,16.17l-.1-.23s0,0-.01,0l-.06.03s0,0,0,.01l.11.23s-.05.09-.03.14c.03.06.1.09.16.06.06-.03.09-.1.06-.17-.02-.05-.07-.08-.12-.07h0Z"/>
+    <path class="cls-86" d="m48.92,15.17l.03.25-.1-.03s.04-.14.07-.22Zm-1.45.42c.06.05.15.05.2,0l.56-.62-.71,2.23c-.03.09.02.18.11.21.09.03.18-.02.21-.11l.44-1.37.07.02-.44,1.37c-.03.09.02.18.11.21.09.03.18-.02.21-.11,0,0,.29-.9.56-1.76.03.01.16.05.21.07.05.01.11.02.16-.01.06-.03.08-.08.09-.11.01-.03.01-.06.01-.09,0,0-.04-.34-.05-.47-.02-.17-.07-.28-.24-.33-.04-.01-.44-.14-.49-.16-.14-.05-.24,0-.36.13-.08.09-.64.72-.64.72-.05.06-.05.15,0,.2h0Z"/>
+    <polygon class="cls-15" points="48.7 15.8 48.79 15.83 48.54 14.57 48.45 14.54 48.7 15.8"/>
+    <path class="cls-96" d="m48.5,15.34s0,.02,0,.02l.2.06s.02,0,.02-.01l.16-.3s0-.02,0-.02l-.2-.06s-.02,0-.02.01l-.16.3h0Z"/>
+    <path class="cls-86" d="m48.73,15.35l.33.11c.07.02.12.1.09.18-.02.07-.1.11-.18.09l-.33-.11c-.08-.02-.11-.1-.09-.18s.1-.12.18-.09h0Z"/>
+    <path class="cls-86" d="m48.94,14c-.17-.05-.35.04-.4.21s.04.35.2.4c.17.05.35-.04.4-.21.05-.17-.04-.35-.2-.4h0Z"/>
+    <path class="cls-86" d="m48.42,14.07h.02s0-.02,0-.02c0-.03.03-.04.06-.04.08-.15.26-.22.42-.17l.1.03c.16.05.27.22.25.38.02.01.03.04.03.06v.02s.02,0,.02,0c.01,0,.02.02.02.03l-.04.11s-.02.02-.04.02h-.02s0,.02,0,.02c0,.03-.04.04-.07.03h-.01s-.04-.04-.03-.07l.07-.21s.02-.03.04-.04c.01-.14-.07-.28-.21-.33l-.1-.03c-.14-.05-.29.02-.36.14.01.01.02.03.01.05l-.07.21s-.04.04-.07.03h-.01s-.04-.04-.04-.07v-.03s-.02,0-.02,0c-.01,0-.02-.02-.02-.03l.03-.11s.02-.02.04-.02h0Z"/>
+    <g class="cls-65">
+      <path class="cls-15" d="m48.43,16.44l.21-.65s.04-.05.07-.04l.09.03s.05.04.04.07l-.21.65s-.04.05-.07.04l-.09-.03s-.05-.04-.04-.07Z"/>
+    </g>
+    <path class="cls-126" d="m45.25,20.47c0-1.94-1.66-3.83-1.66-3.83,0,0-1.63,1.86-1.63,3.84,0,1.37.59,2.5,1.36,2.73v1.33h.59v-1.33c.76-.24,1.34-1.38,1.34-2.74h0Z"/>
+    <path class="cls-73" d="m58.25,29.76c.94-1.15,1.34-3.32.33-4.15-1.01-.83-3.06-.01-4.01,1.14-.86,1.05-.88,2.48-.1,3.36l-1.23,1.39.64.52,1.1-1.5c1.01.6,2.42.29,3.28-.76h0Z"/>
+    <path class="cls-73" d="m33.71,18.98c-.01-1.49-1.09-3.41-2.4-3.4-1.31,0-2.37,1.95-2.36,3.44,0,1.36.91,2.48,2.06,2.65l-.06,1.86h.83s-.11-1.86-.11-1.86c1.16-.19,2.05-1.32,2.04-2.68Z"/>
+    <path class="cls-25" d="m53.18,11.56c.63-1.07.27-2.45-.8-3.08-1.07-.63-2.45-.28-3.08.8-.63,1.07-.27,2.45.79,3.08,1.07.63,2.45.27,3.08-.79h0Z"/>
+    <path class="cls-11" d="m50.94,9.72c0-.16.14-.3.3-.3.16,0,.29.13.29.3,0,.17-.13.3-.3.3-.16,0-.3-.14-.29-.3h0Zm-.58-.12c0,.13.03.25.07.36.2.53.78,2.13.78,2.13,0,0,.6-1.6.81-2.12.04-.11.08-.23.08-.36,0-.48-.39-.87-.87-.88-.48,0-.88.39-.88.87Z"/>
+    <path class="cls-25" d="m38.6,17.82c.34-.58.15-1.33-.43-1.68s-1.33-.15-1.68.43c-.34.58-.15,1.33.43,1.68.58.34,1.33.15,1.68-.43h0Z"/>
+    <path class="cls-11" d="m37.1,17.75c-.07,0-.12.05-.12.12s.05.12.12.12.12-.05.12-.12-.05-.12-.12-.12Z"/>
+    <path class="cls-11" d="m37.79,17.75c-.07,0-.12.05-.12.12s.05.12.12.12.12-.05.12-.12-.05-.12-.12-.12Z"/>
+    <path class="cls-11" d="m38.38,16.56h-.09c-.08,0-.13.06-.16.12-.01.04-.04.12-.06.17,0,0-.91,0-1.22,0-.01,0-.03,0-.04.02-.01.01-.02.03-.02.06,0,0,.14.44.19.59.01.04.04.06.08.06h.78s-.04.06-.07.06h-.73s-.05.02-.05.05.02.05.05.05h.73c.08,0,.13-.06.16-.12.02-.05.27-.85.29-.9,0-.03.04-.06.07-.06h.09s.05-.02.05-.05-.02-.05-.05-.05h0Z"/>
+    <path class="cls-25" d="m47.05,35.18c.58-.98.25-2.24-.73-2.82-.98-.58-2.24-.25-2.82.73-.58.98-.25,2.24.73,2.82.98.58,2.24.25,2.82-.73Z"/>
+    <path class="cls-11" d="m46,32.98c-.09,0-.17.03-.24.07.03.07.05.14.05.22,0,.16-.07.3-.18.4.08.12.22.21.38.21.25,0,.45-.2.45-.45s-.2-.45-.45-.45Z"/>
+    <path class="cls-11" d="m45.99,33.93c-.06,0-.11,0-.16.02.11.13.18.32.18.57v.67h.64v-.51c0-.5-.29-.75-.66-.75h0Z"/>
+    <path class="cls-11" d="m45.72,33.27c0-.25-.2-.45-.45-.45s-.45.2-.45.45c0,.25.2.45.45.45s.45-.2.45-.45h0Z"/>
+    <path class="cls-11" d="m45.93,35.45s0-.72,0-.93c0-.5-.29-.75-.66-.75-.36,0-.66.29-.66.75,0,.17,0,.93,0,.93h1.32s0,0,0,0Z"/>
+    <path class="cls-11" d="m44.56,32.98c.09,0,.17.03.24.07-.03.07-.05.14-.05.22,0,.16.07.3.18.4-.08.12-.22.21-.38.21-.25,0-.45-.2-.45-.45,0-.25.2-.45.45-.45Z"/>
+    <path class="cls-11" d="m44.56,33.93c.06,0,.11,0,.16.02-.11.13-.18.32-.18.57v.67h-.64v-.51c0-.5.29-.75.66-.75h0Z"/>
+    <g class="cls-113">
+      <path class="cls-38" d="m39.14,2.61c.48-.82.21-1.87-.61-2.35-.82-.48-1.87-.21-2.35.61-.48.82-.21,1.87.61,2.35.82.48,1.87.21,2.35-.61h0Z"/>
+    </g>
+    <path class="cls-11" d="m37.9,1.58s-.02.07-.07.26c-.04.17-.18.29-.32.25-.08-.02-.18-.16-.09-.4.05-.15.19-.28.35-.25.13.02.13.14.13.14h0Zm.8-.1c-.05-.5-.61-.75-.94-.75-.76,0-1.15.61-1.15,1.07,0,.65.62.95,1.03.95.2,0,.48-.08.56-.12l-.09-.2c-.11.05-.29.09-.46.1-.35,0-.79-.28-.79-.73,0-.35.25-.71.64-.81.45-.11.9.15.97.51.03.15-.03.34-.1.43-.07.1-.25.22-.32.14-.03-.03.02-.17.04-.25.1-.31.18-.57.18-.57h-.23s0,.02-.04.11c-.05-.14-.19-.16-.3-.16-.27,0-.56.3-.56.64,0,.18.1.45.39.45.09,0,.19-.03.28-.12.04.11.17.14.27.14.2,0,.67-.23.61-.84h0Z"/>
+    <path class="cls-95" d="m35.34,41.13c.27-.46.12-1.06-.34-1.33-.46-.27-1.06-.12-1.33.34-.27.46-.12,1.06.35,1.33.46.27,1.06.12,1.33-.35Z"/>
+    <path class="cls-11" d="m34.56,40.7c-.14.14-.37.14-.51,0-.14-.14-.14-.37,0-.51.14-.14.37-.14.51,0,.14.14.14.37,0,.51Zm.6.42l-.44-.4c.13-.19.11-.45-.06-.62-.19-.19-.51-.19-.7,0-.19.19-.19.51,0,.7.17.17.43.19.62.06l.4.44s.04.02.05,0l.14-.14s.01-.04,0-.05h0Z"/>
+    <path class="cls-5" d="m14.16,13.3c.79-1.35.35-3.08-1-3.88-1.35-.79-3.08-.35-3.88,1-.79,1.35-.35,3.08,1,3.88,1.35.79,3.08.35,3.88-1h0Z"/>
+    <path class="cls-11" d="m10.06,10.75s-.02,0,0,.02l1.65,1.65s.03.01.04,0l1.65-1.65s0-.02,0-.02h-3.33Z"/>
+    <path class="cls-11" d="m10.99,11.97s-.03-.01-.04,0l-.99.99s0,.02,0,.02h3.5s.02-.01,0-.02l-.99-.99s-.03-.01-.04,0l-.71.71s-.03,0-.04,0l-.71-.71h0Z"/>
+    <path class="cls-11" d="m12.63,11.8s-.01.03,0,.04l.97.97s.02,0,.02,0v-1.96s0-.02-.02,0l-.97.97h0Z"/>
+    <path class="cls-11" d="m10.82,11.84s.01-.03,0-.04l-.99-.99s-.02,0-.02,0v1.99s.01.02.02,0l.99-.98h0Z"/>
+    <path class="cls-72" d="m6.15,17.02c.44-.75.19-1.72-.56-2.16-.75-.44-1.72-.19-2.16.56-.44.75-.19,1.72.56,2.16.75.44,1.72.19,2.16-.56h0Z"/>
+    <path class="cls-11" d="m5.37,15.74h-1.17s-.04-.02-.04-.04c0-.02.02-.04.04-.04h1.17s.04.02.04.04-.02.04-.04.04Zm0,.33h-1.17s-.04-.02-.04-.04.02-.04.04-.04h1.17s.04.02.04.04c0,.02-.02.04-.04.04Zm0,.33h-1.17s-.04-.02-.04-.04.02-.04.04-.04h1.17s.04.02.04.04c0,.02-.02.04-.04.04Zm.33-.96s.03-.01.03-.03v-.06s-.01-.03-.03-.03h-1.83s-.03.01-.03.03v.06s.02.03.03.03h.03v1.15h-.03s-.03.01-.03.03v.06s.02.03.03.03h.86v.31l-.37.37s-.02.05,0,.07c.01.01.02.01.04.01s.03,0,.04-.01l.29-.29v.27s.02.05.05.05.05-.02.05-.05v-.27l.29.29s.02.01.04.01.03,0,.04-.01c.02-.02.02-.05,0-.07l-.37-.37v-.31h.86s.03-.01.03-.03v-.06s-.01-.03-.03-.03h-.03v-1.15h.03,0Z"/>
+    <path class="cls-57" d="m63.05,16.52c.52-.88.23-2.02-.65-2.53-.88-.52-2.01-.23-2.53.66s-.23,2.01.65,2.53c.88.52,2.02.23,2.54-.66Z"/>
+    <path class="cls-11" d="m61,14.71v-.45s-.04.02-.06.04c-.1.09-.37.37-.37.37-.01.02-.03.03-.03.05h.46s.01,0,.01,0h0Z"/>
+    <path class="cls-11" d="m62.06,15.24h-1.21s-.05-.02-.05-.05.02-.05.05-.05h1.21s.05.02.05.05-.02.05-.05.05Zm0,.44h-1.21s-.05-.02-.05-.05.02-.05.05-.05h1.21s.05.02.05.05-.02.05-.05.05Zm0,.44h-1.21s-.05-.02-.05-.05.02-.05.05-.05h1.21s.05.02.05.05-.02.05-.05.05Zm.23-1.88h-1.19v.47c0,.06-.05.11-.11.11h-.47v1.77c0,.05.04.1.1.1h1.67c.05,0,.1-.04.1-.1v-2.24c0-.05-.04-.1-.1-.1h0Z"/>
+    <path class="cls-26" d="m28.52,46.01c.52-.88.23-2.02-.65-2.54-.88-.52-2.02-.23-2.54.66-.52.88-.23,2.02.65,2.54.88.52,2.02.23,2.54-.65Z"/>
+    <path class="cls-11" d="m26.29,45.17c0-.35.29-.64.64-.64s.64.29.64.64-.29.64-.64.64-.64-.29-.64-.64Zm1.29-.77s0-.01.01-.01h.45s.02,0,.02.01v.24s0,.01-.02.01h-.45s-.01,0-.01-.01v-.24Zm-1.93-.05v1.52c0,.07.05.12.12.12h2.33c.07,0,.12-.05.12-.12v-1.52c0-.06-.05-.12-.12-.12h-.15s-.01-.04-.01-.06c0-.01-.01-.03-.03-.03h-.42s-.02.01-.03.03c0,.01,0,.04-.01.06h-1.68c-.07,0-.12.05-.12.12h0Z"/>
+    <path class="cls-11" d="m26.93,44.69c.27,0,.48.22.48.49s-.22.49-.48.49-.49-.22-.49-.49.22-.49.49-.49Z"/>
+    <path class="cls-26" d="m25.28,29.61c.47-.8.21-1.84-.6-2.31-.8-.47-1.84-.21-2.31.6-.47.8-.21,1.84.6,2.31.8.47,1.84.21,2.31-.6Z"/>
+    <path class="cls-11" d="m23.66,28.69c0-.19-.16-.35-.35-.35s-.36.16-.36.35.16.35.36.35.35-.16.35-.35Z"/>
+    <path class="cls-11" d="m24.7,27.66h-.78c-.13,0-.23.11-.23.23v.51c0,.13.1.23.23.23h.03c-.02.12-.16.19-.16.19,0,0,.44.08.47-.19h.45c.13,0,.23-.1.23-.23v-.51c0-.13-.1-.23-.23-.23Z"/>
+    <path class="cls-11" d="m23.89,29.73v-.06c0-.44-.26-.58-.58-.58s-.58.16-.58.58v.06h1.17Z"/>
+    <path class="cls-120" d="m13.94,23.47c.48-.82.21-1.87-.61-2.35-.82-.48-1.87-.21-2.35.61-.48.82-.21,1.87.61,2.35.82.48,1.87.21,2.35-.61h0Z"/>
+    <path class="cls-11" d="m13.13,22c-.18-.23-.23-.54-.23-.54h-.12v1.64c-.11-.05-.27-.03-.4.07-.17.13-.22.34-.12.47.1.13.32.13.49,0,.11-.09.17-.21.17-.32,0-.29,0-.9,0-1.17.19.07.32.26.34.5.02.26-.14.47-.14.48l.05.05s.24-.14.24-.54c0-.25-.14-.48-.28-.65h0Z"/>
+    <path class="cls-11" d="m12.58,21.56h-1s-.05.02-.05.05.02.05.05.05h1s.05-.02.05-.05-.02-.05-.05-.05h0Z"/>
+    <path class="cls-11" d="m12.58,21.85h-1s-.05.02-.05.05.02.05.05.05h1s.05-.02.05-.05-.02-.05-.05-.05Z"/>
+    <path class="cls-11" d="m12.58,22.13h-1s-.05.02-.05.05.02.05.05.05h1s.05-.02.05-.05-.02-.05-.05-.05Z"/>
+    <path class="cls-11" d="m12.58,22.42h-.7s-.05.02-.05.05.03.05.05.05h.7s.05-.02.05-.05-.02-.05-.05-.05h0Z"/>
+    <path class="cls-38" d="m56.26,23.94c-.02-.86-.73-1.55-1.59-1.55-.02,0-.05,0-.08,0-.21-1.07-1.15-1.88-2.28-1.88-.63,0-1.2.25-1.62.65-.35-.48-.93-.8-1.58-.8-1.08,0-1.95.87-1.95,1.95,0,.04,0,.08,0,.12-.12-.03-.24-.04-.37-.04-.86,0-1.57.69-1.59,1.55h11.05,0Z"/>
+    <circle class="cls-11" cx="49.33" cy="22.58" r=".38"/>
+    <path class="cls-11" d="m49.33,21.49c.51,0,.93.35,1.05.82l.28-.15c-.17-.57-.7-.99-1.33-.99s-1.16.42-1.33.99l.28.15c.12-.47.54-.82,1.05-.82h0Z"/>
+    <path class="cls-11" d="m49.33,21.99c.31,0,.56.25.58.55h.02l.27-.14c-.08-.41-.44-.72-.87-.72-.44,0-.79.31-.87.72l.27.14h.02c.02-.31.27-.55.58-.55Z"/>
+    <path class="cls-25" d="m17.17,31.35c-.03-.93-.79-1.68-1.73-1.68-.03,0-.06,0-.09,0-.22-1.16-1.25-2.05-2.48-2.05-.68,0-1.3.27-1.76.71-.39-.53-1.01-.87-1.71-.87-1.17,0-2.12.95-2.12,2.12,0,.04,0,.08,0,.12-.13-.03-.26-.05-.4-.05-.94,0-1.7.75-1.73,1.68h12Z"/>
+    <circle class="cls-11" cx="9.64" cy="29.88" r=".41"/>
+    <path class="cls-11" d="m9.64,28.7c.55,0,1.01.38,1.14.89l.3-.16c-.19-.62-.76-1.07-1.44-1.07s-1.26.45-1.45,1.07l.31.16c.13-.51.59-.89,1.14-.89h0Z"/>
+    <path class="cls-11" d="m9.64,29.24c.34,0,.61.27.63.6h.02l.3-.15c-.09-.45-.48-.79-.95-.79-.47,0-.86.34-.95.79l.29.15h.02c.02-.33.29-.6.63-.6h0Z"/>
+    <path class="cls-26" d="m23.44,39.09c-.02-.79-.67-1.42-1.46-1.42-.02,0-.05,0-.07,0-.19-.98-1.05-1.73-2.09-1.73-.58,0-1.1.23-1.48.6-.33-.45-.85-.73-1.44-.73-.99,0-1.79.8-1.79,1.79,0,.04,0,.07,0,.11-.11-.02-.22-.04-.33-.04-.79,0-1.44.63-1.46,1.42h10.13,0Z"/>
+    <path class="cls-11" d="m17.44,37.84c0-.19-.16-.35-.35-.35s-.35.16-.35.35.16.35.35.35.35-.16.35-.35Z"/>
+    <path class="cls-11" d="m17.09,36.85c.47,0,.85.32.96.75l.26-.13c-.16-.52-.65-.9-1.22-.9s-1.06.38-1.22.9l.26.13c.11-.43.5-.75.96-.75h0Z"/>
+    <path class="cls-11" d="m17.09,37.31c.29,0,.52.23.53.51h.02l.25-.13c-.07-.38-.4-.66-.8-.66s-.73.29-.8.66l.25.13h.02c.02-.28.25-.51.53-.51h0Z"/>
+    <path class="cls-95" d="m47.25,46.79c-.02-.7-.59-1.26-1.3-1.26-.02,0-.04,0-.06,0-.17-.88-.94-1.54-1.86-1.54-.51,0-.98.2-1.32.54-.29-.4-.76-.65-1.29-.65-.88,0-1.6.72-1.6,1.6,0,.03,0,.06,0,.09-.1-.02-.19-.03-.3-.03-.71,0-1.28.56-1.3,1.27h9.03Z"/>
+    <path class="cls-11" d="m41.9,45.68c0-.17-.14-.31-.31-.31s-.31.14-.31.31.14.31.31.31.31-.14.31-.31Z"/>
+    <path class="cls-11" d="m41.59,44.79c.41,0,.76.29.86.67l.23-.12c-.14-.47-.58-.81-1.09-.81s-.95.34-1.09.81l.23.12c.1-.39.44-.67.86-.67Z"/>
+    <path class="cls-11" d="m41.59,45.2c.25,0,.46.2.47.45h.02l.22-.11c-.06-.34-.36-.59-.71-.59s-.65.26-.71.59l.22.11h.02c.01-.25.22-.45.48-.45h0Z"/>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 777.95 45.2">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+
+      .cls-2 {
+        font-size: 12.02px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        fill: #051c2c;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <path class="cls-1" d="m137.9,18.72l6,3-6,3v-6ZM6,24.72l-6-3,6-3v6Zm-1-3.5h133.9v1H5v-1Z"/>
+    <rect class="cls-15" x="56.16" y="13.8" width="31.68" height="14.52"/>
+    <text class="cls-3" transform="translate(56.28 25.56)"><tspan x="0" y="0">Fi</tspan><tspan class="cls-13" x="10.66" y="0">x</tspan><tspan class="cls-10" x="17.37" y="0">e</tspan><tspan x="24.07" y="0">d</tspan></text>
+    <path class="cls-1" d="m771.95,18.72l6,3-6,3v-6Zm-129.95,6l-6-3,6-3v6Zm-1-3.5h131.95v1h-131.95v-1Z"/>
+    <path class="cls-1" d="m629.99,18.72l6,3-6,3v-6Zm-480.11,6l-6-3,6-3v6Zm-1-3.5h482.12v1H148.88v-1Z"/>
+    <rect class="cls-15" x="352.8" y="7.32" width="60.36" height="29.16"/>
+    <text class="cls-3" transform="translate(353.98 19.18)"><tspan class="cls-6" x="0" y="0">T</tspan><tspan class="cls-12" x="6.49" y="0">e</tspan><tspan x="13.19" y="0">rr</tspan><tspan class="cls-4" x="22.53" y="0">e</tspan><tspan class="cls-12" x="29.25" y="0">s</tspan><tspan x="35.95" y="0">tri</tspan><tspan class="cls-11" x="47.95" y="0">a</tspan><tspan x="54.55" y="0">l </tspan></text>
+    <rect class="cls-15" x="666.48" width="81" height="43.56"/>
+    <text class="cls-3" transform="translate(359.14 33.58)"><tspan class="cls-5" x="0" y="0">w</tspan><tspan x="9.59" y="0">ir</tspan><tspan class="cls-7" x="17.59" y="0">e</tspan><tspan x="24.32" y="0">l</tspan><tspan class="cls-8" x="27.66" y="0">e</tspan><tspan class="cls-14" x="34.28" y="0">s</tspan><tspan x="40.98" y="0">s</tspan></text>
+    <text class="cls-2" transform="translate(693.46 11.86)"><tspan x="0" y="0">No</tspan><tspan class="cls-9" x="16.03" y="0">n</tspan><tspan x="23.3" y="0">-</tspan></text>
+    <text class="cls-3" transform="translate(679.3 26.28)"><tspan x="0" y="0">terr</tspan><tspan class="cls-7" x="20.01" y="0">e</tspan><tspan class="cls-14" x="26.74" y="0">s</tspan><tspan x="33.44" y="0">tri</tspan><tspan class="cls-11" x="45.44" y="0">a</tspan><tspan x="52.04" y="0">l</tspan></text>
+    <text class="cls-3" transform="translate(683.26 40.68)"><tspan class="cls-5" x="0" y="0">w</tspan><tspan x="9.59" y="0">ir</tspan><tspan class="cls-7" x="17.59" y="0">e</tspan><tspan x="24.32" y="0">l</tspan><tspan class="cls-8" x="27.66" y="0">e</tspan><tspan class="cls-14" x="34.28" y="0">s</tspan><tspan x="40.98" y="0">s</tspan></text>
+  </g>
+</svg>
