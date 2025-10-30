@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.94 257.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d2c3b;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 2.25 2.25;
+        stroke-width: 2.25px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: Wingdings3, 'Wingdings 3';
+        font-size: 15.96px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.5px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <line class="cls-2" x1="12.57" x2="12.57" y2="257.48"/>
+    <circle class="cls-1" cx="12.47" cy="128.74" r="11.72" transform="translate(-115.69 111.3) rotate(-76.72)"/>
+    <circle class="cls-3" cx="12.47" cy="128.74" r="11.72" transform="translate(-115.69 111.3) rotate(-76.72)"/>
+    <text class="cls-4" transform="translate(5.38 134.79)"><tspan x="0" y="0"></tspan></text>
+  </g>
+</svg>
